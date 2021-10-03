@@ -18,25 +18,24 @@ MIT licensed
 
 ### Curriculum Table of Contents
 
-### pt. 1/3, Tech Skills
+### pt. 1/3, Learn to Code
 
 1. <a href="#/introduction-the-master-plan">Introduction, "The Master Plan"</a>
 2. <a href="#/basic-technical-skills">Basic Technical Skills</a>
-3. HTML
-4. CSS
-5. JavaScript
-6. React
-7. Miscellaneous, Optional, and Advanced Skills
+3. <a href="#/html">HTML</a>
+4. <a href="#/css">CSS</a>
+5. <a href="#/javascript">JavaScript</a>
+6. <a href="#/react">React</a>
+7. <a href="#/optional-advanced-tech-skills">Optional Advanced Tech Skills</a>
 
 ---
 
 ### Curriculum Table of Contents
 
-### pt. 2/3, Soft Skills
+### pt. 2/3, The Job Search
 
-8. Soft Skills
-9. Job Search
-10. Miscellaneous, Optional, and Advanced Skills
+8. <a href="#/soft-skills">Soft Skills</a>
+9. <a href="#/job-search">Job Search</a>
 
 ---
 
@@ -51,7 +50,7 @@ MIT licensed
 
 ---
 
-## <a name="introduction-the-master-plan"></a>Introduction, "The Master Plan"
+## Introduction, "The Master Plan"
 
 -   key subtopics: Why React/JS/TS
 -   Why a Mentor/Coach vs bootcamp vs self-taught vs university?
@@ -123,7 +122,7 @@ https://www.tiktok.com/@johnvandivier/video/7010733751814688006
 
 ---
 
-## <a name="basic-technical-skills"></a>Basic Technical Skills
+## Basic Technical Skills
 
 -   subtopic: commit the 'trial by fire'
 -   How to Learn, Googling, and Git + Bash-ish
@@ -146,10 +145,11 @@ https://www.tiktok.com/@lorraine.leung/video/7005391554458291461
 https://www.tiktok.com/@lorraine.leung/video/7008548471024209157
 https://www.tiktok.com/@lorraine.leung/video/7004964962921762053
 
-HTML
---- TODO: discuss code comments
-
 ---
+
+## HTML
+
+-   TODO: discuss code comments
 
 https://www.tiktok.com/@johnvandivier/video/6997096762561268997
 https://www.tiktok.com/@johnvandivier/video/7002361910536490246
@@ -169,7 +169,7 @@ https://www.tiktok.com/@johnvandivier/video/7010121177112907013
 
 ---
 
-## JS
+## JavaScript
 
 https://www.tiktok.com/@js_bits/video/7003363214767557893
 https://www.tiktok.com/@js_bits/video/6967388258309328134
@@ -179,7 +179,7 @@ https://www.tiktok.com/@johnvandivier/video/7003764996966452485
 
 ---
 
-# REACT
+## React
 
 -   subtopics: vs code, extensions, node, prettier, eslint, redux, devtools, project file organization / component organization (page vs feature)
 -   TODO: pt 6-7: jsx, functional component, blitzjs
@@ -203,7 +203,7 @@ https://www.tiktok.com/@johnvandivier/video/7011300261297687814
 
 ---
 
-## ADVANCED TECH
+## Optional Advanced Tech Skills
 
 https://www.tiktok.com/@js_bits/video/6986616534466579718
 https://www.tiktok.com/@johnvandivier/video/6994933767014059270
@@ -215,7 +215,7 @@ https://www.tiktok.com/@johnvandivier/video/7009409512536952069
 
 ---
 
-## SOCIAL SKILLS + SOFT SKILLS
+## Soft Skills
 
 https://www.tiktok.com/@johnvandivier/video/6996679894751071494
 https://www.tiktok.com/@johnvandivier/video/6997466458632703238
@@ -226,7 +226,7 @@ https://www.tiktok.com/@johnvandivier/video/7008933997413666053
 
 ---
 
-## JOB SEARCH
+## Job Search
 
 -   key subtopics: resume + application, social networking, interviews, portfolio development
 -   interviews: coding, algorithms, system design, behavioral
