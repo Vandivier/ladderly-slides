@@ -22,11 +22,11 @@ MIT licensed
 
 1. <a href="#/introduction-the-master-plan">Introduction, "The Master Plan"</a>
 2. <a href="#/basic-technical-skills">Basic Technical Skills</a>
-3. HTML
-4. CSS
-5. JavaScript
-6. React
-7. Miscellaneous, Optional, and Advanced Skills
+3. <a href="#/html">HTML</a>
+4. <a href="#/css">CSS</a>
+5. <a href="#/javascript">JavaScript</a>
+6. <a href="#/react">React</a>
+7. <a href="#/advanced-skills">Advanced Skills</a>
 
 ---
 
@@ -146,10 +146,11 @@ https://www.tiktok.com/@lorraine.leung/video/7005391554458291461
 https://www.tiktok.com/@lorraine.leung/video/7008548471024209157
 https://www.tiktok.com/@lorraine.leung/video/7004964962921762053
 
-HTML
---- TODO: discuss code comments
-
 ---
+
+## <a name="html"></a>HTML
+
+-   TODO: discuss code comments
 
 https://www.tiktok.com/@johnvandivier/video/6997096762561268997
 https://www.tiktok.com/@johnvandivier/video/7002361910536490246
@@ -161,7 +162,7 @@ https://www.tiktok.com/@johnvandivier/video/7011205086252666118
 
 ---
 
-## CSS
+## <a name="css"></a>CSS
 
 https://www.tiktok.com/@johnvandivier/video/7009779405836930310
 https://www.tiktok.com/@johnvandivier/video/7009825459181505797
@@ -169,7 +170,7 @@ https://www.tiktok.com/@johnvandivier/video/7010121177112907013
 
 ---
 
-## JS
+## <a name="javascript"></a>JavaScript
 
 https://www.tiktok.com/@js_bits/video/7003363214767557893
 https://www.tiktok.com/@js_bits/video/6967388258309328134
@@ -179,7 +180,7 @@ https://www.tiktok.com/@johnvandivier/video/7003764996966452485
 
 ---
 
-# REACT
+# <a name="react"></a>React
 
 -   subtopics: vs code, extensions, node, prettier, eslint, redux, devtools, project file organization / component organization (page vs feature)
 -   TODO: pt 6-7: jsx, functional component, blitzjs
@@ -203,7 +204,7 @@ https://www.tiktok.com/@johnvandivier/video/7011300261297687814
 
 ---
 
-## ADVANCED TECH
+## <a name="advanced-skills"></a>Advanced Skills
 
 https://www.tiktok.com/@js_bits/video/6986616534466579718
 https://www.tiktok.com/@johnvandivier/video/6994933767014059270
