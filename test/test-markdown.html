@@ -34,7 +34,7 @@
 
         <div class="reveal deck2" style="display: none">
             <div class="slides">
-                <section data-markdown="simple.md" data-separator="^\r?\n\r?\n\r?\n" data-separator-vertical="^\r?\n\r?\n"></section>
+                <section data-markdown="simple.md" data-separator="---" data-separator-vertical="^\r?\n\r?\n"></section>
             </div>
         </div>
 
@@ -331,7 +331,7 @@
                 QUnit.test('Vertical separator', function (assert) {
                     assert.strictEqual(
                         deck2.getRevealElement().querySelectorAll('.reveal .slides>section>section').length,
-                        2,
+                        6,
                         'found two slides'
                     );
                 });
