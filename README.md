@@ -97,6 +97,12 @@ MIT licensed
 
 ---
 
+### Why Tech + Programming?
+
+16. [You can leverage a degree from any field.](https://www.tiktok.com/@johnvandivier/video/6990788623079656710)
+
+---
+
 ### Why React?
 
 1. [Python Tutorials and Docs are Often Outdated](https://www.tiktok.com/@johnvandivier/video/6990342369321258246)
@@ -106,9 +112,18 @@ MIT licensed
 
 ---
 
-4. https://www.tiktok.com/@johnvandivier/video/6990788623079656710
-5. https://www.tiktok.com/@johnvandivier/video/6990869073198583046
-6. https://www.tiktok.com/@johnvandivier/video/6991990221269159174
+### Why React?
+
+4. [AI and ML use cases for Python are not beginnger-friendly.](https://www.tiktok.com/@johnvandivier/video/6990869073198583046)
+    - Even if you get the code down, you could use AI or ML in a dangerous way if you don't understand statistics.
+
+---
+
+### Useful External Resources
+
+<!-- all this really says is use codecademy or freecodecamp as external resources
+1. https://www.tiktok.com/@johnvandivier/video/6991990221269159174 -->
+
 7. https://www.tiktok.com/@johnvandivier/video/6992322274841873670
 8. https://www.tiktok.com/@johnvandivier/video/6992348993262996741
 9. https://www.tiktok.com/@johnvandivier/video/6992669586650909957
@@ -165,8 +180,40 @@ MIT licensed
 
 ## Basic Technical Skills
 
--   subtopic: commit the 'trial by fire'
--   How to Learn, Googling, and Git + Bash-ish
+### Key Points
+
+<!-- -   subtopic: commit the 'trial by fire' -->
+
+1. Basic Bash
+2. Basic Git
+3. <a href="#googling-techniques">Googling Techniques</a>
+4. General Learning Techniques
+
+---
+
+### Googling Techniques
+
+[Source: Fireship, "How to 'Google It' like a Senior Software Engineer"](https://www.youtube.com/watch?v=cEBkvm0-rg0)
+
+1. If you run into a code error or log message, try literally searching the message.
+2. Refine search using double-quotes for an exact match.
+
+---
+
+### Googling Techniques
+
+3. Increase useful results by removing application-specific content in your search
+4. Use the "site:" prefix to search for results within a single site, eg `site:stackoverflow.com`
+5. Use the minus sign to exclude web pages that include a keyword
+
+---
+
+### Googling Techniques
+
+6. Refine by searching over a specific time period
+7. You can use the "filetype:" prefix to search for specific file types
+8. If a search result isn't currently accessible, try to access a cached version
+9. Try using search engines other than Google as appropriate. For example, you could search within StackOverflow.
 
 ---
 
@@ -177,7 +224,7 @@ https://www.tiktok.com/@johnvandivier/video/6999304701133016326
 https://www.tiktok.com/@johnvandivier/video/6999340031483579653
 https://www.tiktok.com/@johnvandivier/video/6999426333134621958
 https://www.tiktok.com/@johnvandivier/video/7000540063163632902
-https://www.youtube.com/watch?v=cEBkvm0-rg0
+
 https://www.tiktok.com/@johnvandivier/video/7005277848781016326
 https://www.tiktok.com/@johnvandivier/video/7006386444826709254
 https://www.tiktok.com/@johnvandivier/video/7008166043436748038
