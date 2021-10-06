@@ -52,73 +52,114 @@ MIT licensed
 
 ## Introduction, "The Master Plan"
 
--   key subtopics: Why React/JS/TS
--   Why a Mentor/Coach vs bootcamp vs self-taught vs university?
--   persuasive/motivational/benefits of tech + programming
--   good external resources
+### Key Points
+
+1. <a href="#why-tech--programming">Why Tech + Programming?</a>
+2. <a href="#why-react">Why React?</a>
+3. Why a Coaching Program?
+4. Useful External Resources
+    <!-- -   Why a Mentor/Coach vs bootcamp vs self-taught vs university? -->
+    <!-- -   persuasive/motivational/benefits of tech + programming -->
+    <!-- -   good external resources -->
+5. The Trial by Fire
 
 ---
 
-https://www.tiktok.com/@johnvandivier/video/6990011285496696069
-https://www.tiktok.com/@johnvandivier/video/6990342369321258246
-https://www.tiktok.com/@johnvandivier/video/6990381670717263109
-https://www.tiktok.com/@johnvandivier/video/6990456089909185797
-https://www.tiktok.com/@johnvandivier/video/6990694910596746502
-https://www.tiktok.com/@johnvandivier/video/6990788623079656710
-https://www.tiktok.com/@johnvandivier/video/6990869073198583046
-https://www.tiktok.com/@johnvandivier/video/6991990221269159174
-https://www.tiktok.com/@johnvandivier/video/6992322274841873670
-https://www.tiktok.com/@johnvandivier/video/6992348993262996741
-https://www.tiktok.com/@johnvandivier/video/6992669586650909957
-https://www.tiktok.com/@johnvandivier/video/6993842693470162181
-https://www.tiktok.com/@johnvandivier/video/6993864039923338502
-https://www.tiktok.com/@johnvandivier/video/6993912620315102469
-https://www.tiktok.com/@johnvandivier/video/6994104033115950341
-https://www.tiktok.com/@johnvandivier/video/6994165996957207813
-https://www.tiktok.com/@johnvandivier/video/6994227668136824069
-https://www.tiktok.com/@johnvandivier/video/6994266753912163589
-https://www.tiktok.com/@johnvandivier/video/6994457304586390790
-https://www.tiktok.com/@johnvandivier/video/6994519065960189190
-https://www.tiktok.com/@johnvandivier/video/6994566707528338693
-https://www.tiktok.com/@johnvandivier/video/6994585026537032966
-https://www.tiktok.com/@johnvandivier/video/6994611296356404485
-https://www.tiktok.com/@johnvandivier/video/6994650938317360389
-https://www.tiktok.com/@johnvandivier/video/6994781519709523206
-https://www.tiktok.com/@johnvandivier/video/6994821557419822341
-https://www.tiktok.com/@johnvandivier/video/6994965079703801093
-https://www.tiktok.com/@johnvandivier/video/6995177591158230278
-https://www.tiktok.com/@johnvandivier/video/6995607771248938245
-https://www.tiktok.com/@johnvandivier/video/6995978285821873414
-https://www.tiktok.com/@johnvandivier/video/6996870033339174150
-https://www.tiktok.com/@johnvandivier/video/6997010529281707270
-https://www.tiktok.com/@johnvandivier/video/6997415919513373958
-https://www.tiktok.com/@johnvandivier/video/6997439039947246854
-https://www.tiktok.com/@johnvandivier/video/6997518388771753222
-https://www.tiktok.com/@johnvandivier/video/6997580233922727173
-https://www.tiktok.com/@johnvandivier/video/6997803330994965766
-https://www.tiktok.com/@johnvandivier/video/6998566097402350853
-https://www.tiktok.com/@johnvandivier/video/7000453974017035526
-https://www.tiktok.com/@johnvandivier/video/7000752494578044165
-https://www.tiktok.com/@johnvandivier/video/7000809985156451590
-https://www.tiktok.com/@johnvandivier/video/7001536494938737926
-https://www.tiktok.com/@johnvandivier/video/7001959741576547589
-https://www.tiktok.com/@johnvandivier/video/7001997811260738822
-https://www.tiktok.com/@johnvandivier/video/7002777679200095493
-https://www.tiktok.com/@johnvandivier/video/7003085234795269381
-https://www.tiktok.com/@johnvandivier/video/7003115612809497861
-https://www.tiktok.com/@johnvandivier/video/7003353891140095237
-https://www.tiktok.com/@johnvandivier/video/7003695886966574342
-https://www.tiktok.com/@johnvandivier/video/7003798278550670598
-https://www.tiktok.com/@johnvandivier/video/7004185744801582341
-https://www.tiktok.com/@johnvandivier/video/7005195600216050949
-https://www.tiktok.com/@johnvandivier/video/7007513003209919749
-https://www.tiktok.com/@johnvandivier/video/7008216942616087814
-https://www.tiktok.com/@johnvandivier/video/7008265831650184453
-https://www.tiktok.com/@johnvandivier/video/7010551435708386565
-https://www.afterecon.com/programming/an-8-week-coding-curriculum/
-https://www.tiktok.com/@johnvandivier/video/7010551435708386565
-https://www.tiktok.com/@johnvandivier/video/7010583839999298821
-https://www.tiktok.com/@johnvandivier/video/7010733751814688006
+### Why Tech + Programming?
+
+[Source: Clément Mihailescu, "15 Reasons To Become A Software Engineer"](https://www.youtube.com/watch?v=8_Q7psvRxTM) <!-- .element: target="_blank" -->
+
+1. High Compensation
+2. Work-Life Balance
+3. Low Barrier to Entry
+4. Low Unemployment Rate and Easy to Switch Jobs.
+5. Predictable Interview Process
+
+---
+
+### Why Tech + Programming?
+
+6. Low Expected Future Unemployment Rate. It's a Futureproof Career.
+7. Lots of Variety
+8. Friendly to Both Introverts and Extroverts
+9. Can Work Remotely
+10. Promotes Creativity
+
+---
+
+### Why Tech + Programming?
+
+11. Technology is Included in Every Industry
+12. Programming Now Supports Many Career Choices Later
+13. Immediate Feedback
+14. Incredibly Amount of Custom Tools
+15. Can Help You Do Almost Anything. At Work or in your Personal Life.
+
+---
+
+### Why React?
+
+1. [Python Tutorials and Docs are Often Outdated](https://www.tiktok.com/@johnvandivier/video/6990342369321258246)
+2. [React and JavaScript are Full-Stack Technologies.](https://www.tiktok.com/@johnvandivier/video/6990381670717263109)
+    - Python is a server-side language. This supports comparatively fewer use cases.
+3. [The mental model for web development is already familiar to most people.](https://www.tiktok.com/@johnvandivier/video/6990694910596746502)
+
+---
+
+4. https://www.tiktok.com/@johnvandivier/video/6990788623079656710
+5. https://www.tiktok.com/@johnvandivier/video/6990869073198583046
+6. https://www.tiktok.com/@johnvandivier/video/6991990221269159174
+7. https://www.tiktok.com/@johnvandivier/video/6992322274841873670
+8. https://www.tiktok.com/@johnvandivier/video/6992348993262996741
+9. https://www.tiktok.com/@johnvandivier/video/6992669586650909957
+10. https://www.tiktok.com/@johnvandivier/video/6993842693470162181
+11. https://www.tiktok.com/@johnvandivier/video/6993864039923338502
+12. https://www.tiktok.com/@johnvandivier/video/6993912620315102469
+13. https://www.tiktok.com/@johnvandivier/video/6994104033115950341
+14. https://www.tiktok.com/@johnvandivier/video/6994165996957207813
+15. https://www.tiktok.com/@johnvandivier/video/6994227668136824069
+16. https://www.tiktok.com/@johnvandivier/video/6994266753912163589
+17. https://www.tiktok.com/@johnvandivier/video/6994457304586390790
+18. https://www.tiktok.com/@johnvandivier/video/6994519065960189190
+19. https://www.tiktok.com/@johnvandivier/video/6994566707528338693
+20. https://www.tiktok.com/@johnvandivier/video/6994585026537032966
+21. https://www.tiktok.com/@johnvandivier/video/6994611296356404485
+22. https://www.tiktok.com/@johnvandivier/video/6994650938317360389
+23. https://www.tiktok.com/@johnvandivier/video/6994781519709523206
+24. https://www.tiktok.com/@johnvandivier/video/6994821557419822341
+25. https://www.tiktok.com/@johnvandivier/video/6994965079703801093
+26. https://www.tiktok.com/@johnvandivier/video/6995177591158230278
+27. https://www.tiktok.com/@johnvandivier/video/6995607771248938245
+28. https://www.tiktok.com/@johnvandivier/video/6995978285821873414
+29. https://www.tiktok.com/@johnvandivier/video/6996870033339174150
+30. https://www.tiktok.com/@johnvandivier/video/6997010529281707270
+31. https://www.tiktok.com/@johnvandivier/video/6997415919513373958
+32. https://www.tiktok.com/@johnvandivier/video/6997439039947246854
+33. https://www.tiktok.com/@johnvandivier/video/6997518388771753222
+34. https://www.tiktok.com/@johnvandivier/video/6997580233922727173
+35. https://www.tiktok.com/@johnvandivier/video/6997803330994965766
+36. https://www.tiktok.com/@johnvandivier/video/6998566097402350853
+37. https://www.tiktok.com/@johnvandivier/video/7000453974017035526
+38. https://www.tiktok.com/@johnvandivier/video/7000752494578044165
+39. https://www.tiktok.com/@johnvandivier/video/7000809985156451590
+40. https://www.tiktok.com/@johnvandivier/video/7001536494938737926
+41. https://www.tiktok.com/@johnvandivier/video/7001959741576547589
+42. https://www.tiktok.com/@johnvandivier/video/7001997811260738822
+43. https://www.tiktok.com/@johnvandivier/video/7002777679200095493
+44. https://www.tiktok.com/@johnvandivier/video/7003085234795269381
+45. https://www.tiktok.com/@johnvandivier/video/7003115612809497861
+46. https://www.tiktok.com/@johnvandivier/video/7003353891140095237
+47. https://www.tiktok.com/@johnvandivier/video/7003695886966574342
+48. https://www.tiktok.com/@johnvandivier/video/7003798278550670598
+49. https://www.tiktok.com/@johnvandivier/video/7004185744801582341
+50. https://www.tiktok.com/@johnvandivier/video/7005195600216050949
+51. https://www.tiktok.com/@johnvandivier/video/7007513003209919749
+52. https://www.tiktok.com/@johnvandivier/video/7008216942616087814
+53. https://www.tiktok.com/@johnvandivier/video/7008265831650184453
+54. https://www.tiktok.com/@johnvandivier/video/7010551435708386565
+55. https://www.tiktok.com/@johnvandivier/video/7010551435708386565
+56. https://www.tiktok.com/@johnvandivier/video/7010583839999298821
+57. https://www.tiktok.com/@johnvandivier/video/7010733751814688006
 
 ---
 
