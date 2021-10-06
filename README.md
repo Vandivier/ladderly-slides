@@ -56,12 +56,12 @@ MIT licensed
 
 1. <a href="#why-tech--programming">Why Tech + Programming?</a>
 2. <a href="#why-react">Why React?</a>
-3. Why a Coaching Program?
-4. Useful External Resources
+3. <a href="#why-a-coaching-program">Why a Coaching Program?</a>
+4. <a href="#useful-external-resources">Useful External Resources</a>
     <!-- -   Why a Mentor/Coach vs bootcamp vs self-taught vs university? -->
     <!-- -   persuasive/motivational/benefits of tech + programming -->
     <!-- -   good external resources -->
-5. The Trial by Fire
+5. <a href="#the-trial-by-fire">The Trial by Fire</a>
 
 ---
 
@@ -119,14 +119,20 @@ MIT licensed
 
 ---
 
+### Why a Coaching Program?
+
+1. [You're able to leverage your mentor's social network.](https://www.tiktok.com/@johnvandivier/video/6992669586650909957)
+
+---
+
 ### Useful External Resources
 
 <!-- all this really says is use codecademy or freecodecamp as external resources
 1. https://www.tiktok.com/@johnvandivier/video/6991990221269159174 -->
 
-7. https://www.tiktok.com/@johnvandivier/video/6992322274841873670
-8. https://www.tiktok.com/@johnvandivier/video/6992348993262996741
-9. https://www.tiktok.com/@johnvandivier/video/6992669586650909957
+<!-- this one says Basic Git is needed and codecademy (front end path) includes basic git training -->
+<!-- https://www.tiktok.com/@johnvandivier/video/6997096762561268997 -->
+
 10. https://www.tiktok.com/@johnvandivier/video/6993842693470162181
 11. https://www.tiktok.com/@johnvandivier/video/6993864039923338502
 12. https://www.tiktok.com/@johnvandivier/video/6993912620315102469
@@ -178,6 +184,12 @@ MIT licensed
 
 ---
 
+### The Trial by Fire
+
+TODO
+
+---
+
 ## Basic Technical Skills
 
 ### Key Points
@@ -217,7 +229,6 @@ MIT licensed
 
 ---
 
-https://www.tiktok.com/@johnvandivier/video/6997096762561268997
 https://www.tiktok.com/@johnvandivier/video/6997626272486821126
 https://www.tiktok.com/@johnvandivier/video/6998324447363058950
 https://www.tiktok.com/@johnvandivier/video/6999304701133016326
@@ -330,7 +341,6 @@ https://www.tiktok.com/@johnvandivier/video/7008933997413666053
 https://www.tiktok.com/@johnvandivier/video/6990755604436389126
 https://www.tiktok.com/@johnvandivier/video/6992408142512409862
 https://www.tiktok.com/@johnvandivier/video/6992428753142025477
-https://www.tiktok.com/@johnvandivier/video/6992669586650909957
 https://www.tiktok.com/@johnvandivier/video/6992973274447645957
 https://www.tiktok.com/@johnvandivier/video/6993006398955195653
 https://www.youtube.com/watch?v=U6tu1F2x4J4
