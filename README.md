@@ -57,11 +57,12 @@ MIT licensed
 1. <a href="#why-tech--programming">Why Tech + Programming?</a>
 2. <a href="#why-react">Why React?</a>
 3. <a href="#why-a-coaching-program">Why a Coaching Program?</a>
-4. <a href="#useful-external-resources">Useful External Resources</a>
+4. <a href="#how-to-identify-a-high-prestige-bootcamp">How to Identify a High-Prestige Bootcamp</a>
+5. <a href="#useful-external-resources">Useful External Resources</a>
     <!-- -   Why a Mentor/Coach vs bootcamp vs self-taught vs university? -->
     <!-- -   persuasive/motivational/benefits of tech + programming -->
     <!-- -   good external resources -->
-5. <a href="#the-trial-by-fire">The Trial by Fire</a>
+6. <a href="#the-trial-by-fire">The Trial by Fire</a>
 
 ---
 
@@ -107,8 +108,14 @@ related: https://www.tiktok.com/@johnvandivier/video/6997518388771753222
 16. [You can leverage a degree from any field.](https://www.tiktok.com/@johnvandivier/video/6990788623079656710) <!-- .element: target="_blank" -->
 17. [Other Tech Jobs Besides Developer](https://www.tiktok.com/@johnvandivier/video/6995607771248938245) <!-- .element: target="_blank" -->
     1. Also, Tester, Designer, Scrum Master, Business Analyst, and many more!
+18. [Programming Supports a Digital Nomad Lifestyle](https://www.tiktok.com/@johnvandivier/video/7003115612809497861)
+<!-- TODO: is this too redundent with the remote friendly point? -->
+19. [For programmers, remote working is becoming the norm](https://www.economist.com/graphic-detail/2021/08/11/for-programmers-remote-working-is-becoming-the-norm)
+<!-- note: this is def redundent with the remote friendly point, but here we have striking and useful data, instead of just clement word of mouth -->
 
 ---
+
+<!-- TODO: why react and why javascript could be two different sections -->
 
 ### Why React?
 
@@ -132,24 +139,77 @@ related: https://www.tiktok.com/@johnvandivier/video/6997518388771753222
 
 ### Why React?
 
-6. [Some Reasons to Learn JavaScript](https://www.tiktok.com/@johnvandivier/video/6994227668136824069)
-    1. Platform and use-case versatility
-    2. Familiar mental model
-        <!-- make the point that React supports both JS and TS -->
-        <!-- Python is niche-ier; recommended for data science, AI, and ML, but it's a worse server language...flask and django and drupal are gross...-->
-7. JavaScript and React are more popular, loved, and wanted than alternatives
-    1. Specifically considering Angular, Vue, Python, Flask, and Django as the alternatives
-    2. According to Stack Overflow surveys from [2019](https://insights.stackoverflow.com/survey/2019)<!-- .element: target="_blank" -->,
+6. Learning React helps you quickly land a great job
+    1. JavaScript is the most popular programming language according to Stack Overflow surveys from [2019](https://insights.stackoverflow.com/survey/2019)<!-- .element: target="_blank" -->,
        [2020](https://insights.stackoverflow.com/survey/2020)<!-- .element: target="_blank" -->,
-       and [2021](https://insights.stackoverflow.com/survey/2021)<!-- .element: target="_blank" -->
-    3. To be fair, in 2019, Python as a language was loved more than TypeScript, although none of the Python frameworks were highly desired.
+       [2021](https://insights.stackoverflow.com/survey/2021)<!-- .element: target="_blank" -->,
+       and more
+    2. React is the most popular and loved web framework
+
+---
+
+### Why React?
+
+7. Learning React helps you grow
+    1. React can be written using JavaScript or TypeScript
+    2. JavaScript and TypeScript are multi-paradigm
+    3. React, JS, and TS are cross-platform, full-stack technologies with many use cases
+    4. TypeScript as a language is highly loved and wanted by developers
+
+---
+
+### Why React?
+
+8. Most people don't intend to work in data science
+    1. Python is associated with a data science niche
+    2. React has more results in a refined job search that excludes data engineering roles
+    3. AI, ML, server-side, and non-graphical programs are not intuitive for most people
+9. Websites and mobile apps involve a familar mental model
+
+<!-- python -data -javascript -node.js -->
+<!-- TODO: have a source -->
+<!-- 2. Python has more job postings than JavaScript in a naive Indeed.com search -->
+<!-- 3. Python is also multi-paradigm -->
+<!-- 5. As a result, React is a best-fit for most aspirational software engineers -->
+
+<!-- ---
+
+### Why React?
+
+9. [More beginner friendly than C++](https://www.tiktok.com/@johnvandivier/video/7003353891140095237)
+
+    1. With JavaScript, we don't have to manually manage memory
+    2. React can be gradually learned, implemented, and adopted
+    3. React has more use cases than C++
+
+---
+
+### Why React?
+
+8. [More beginner friendly than C++](https://www.tiktok.com/@johnvandivier/video/7003353891140095237)
+
+    4. A career focusing on C++ is associated with poor work-life balance and low maximum salary.
+    5. React has higher starting salary compared to C++
+    6. [JavaScript is more popular, loved, and wanted](https://insights.stackoverflow.com/survey/2021#most-loved-dreaded-and-wanted-language-love-dread) among developers compared to C++ -->
 
 ---
 
 ### Why a Coaching Program?
 
 1. [You're able to leverage your mentor's social network.](https://www.tiktok.com/@johnvandivier/video/6992669586650909957)<!-- .element: target="_blank" -->
-2. [How do mentors add value?](https://www.tiktok.com/@johnvandivier/video/6997803330994965766)<!-- .element: target="_blank" -->
+2. [How to Identify a Quality Coach](https://www.tiktok.com/@johnvandivier/video/7004185744801582341)
+    1. Bulk discount on hours
+    2. Offers a job guarantee
+    3. Are they where you want to be?
+    4. Are they asking you to do something they have never done?
+
+---
+
+### Why a Coaching Program?
+
+<!-- TODO: can i consolidate two bullets or cut one? -->
+
+3. [How do mentors add value?](https://www.tiktok.com/@johnvandivier/video/6997803330994965766)<!-- .element: target="_blank" -->
     1. Enhanced social network
     2. Give referals and references
     3. Help practice interviews
@@ -158,17 +218,7 @@ related: https://www.tiktok.com/@johnvandivier/video/6997518388771753222
 
 ---
 
-### Useful External Resources
-
-<!-- all these really say is use codecademy or freecodecamp as external resources
-1. https://www.tiktok.com/@johnvandivier/video/6991990221269159174
-2. https://www.tiktok.com/@johnvandivier/video/6996870033339174150
--->
-
-<!-- this one says Basic Git is needed and codecademy (front end path) includes basic git training -->
-<!-- https://www.tiktok.com/@johnvandivier/video/6997096762561268997 -->
-
-#### How to identify a high-prestige bootcamp?
+### How to Identify a High-Prestige Bootcamp
 
 [Source: John Vandivier, "Hirability and Educational Prestige"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3835966) <!-- .element: target="_blank" -->
 
@@ -177,14 +227,16 @@ related: https://www.tiktok.com/@johnvandivier/video/6997518388771753222
 
 ---
 
-### Useful External Resources
-
-#### How to identify a high-prestige bootcamp?
+### How to Identify a High-Prestige Bootcamp
 
 3. Currently, in the United States, App Academy and General Assembly are two recommended bootcamps.
 4. Le Wagon is an ideal bootcamp for many people outside of the United States.
 
 ---
+
+### How to Identify a High-Prestige Bootcamp
+
+<!-- TODO: crowded slide -->
 
 5. [More things to consider when picking a bootcamp](https://www.tiktok.com/@johnvandivier/video/6993912620315102469) <!-- .element: target="_blank" -->
     1. What is the placement rate and is a job guarantee offered?
@@ -194,11 +246,32 @@ related: https://www.tiktok.com/@johnvandivier/video/6997518388771753222
 
 ---
 
+### How to Identify a High-Prestige Bootcamp
+
 6. [Don Hansen's YouTube Channel has in-depth bootcamp reviews](https://www.tiktok.com/@johnvandivier/video/6993864039923338502)<!-- .element: target="_blank" -->
-7. [GitHub Pages allows free portfolio hosting](https://www.tiktok.com/@johnvandivier/video/6994781519709523206)<!-- .element: target="_blank" -->
-8. [Free Office Hours with Notifications via Twitter](https://www.tiktok.com/@johnvandivier/video/6997580233922727173)<!-- .element: target="_blank" -->
-9. [Cristian Florea has free and paid learning resources](https://www.tiktok.com/@johnvandivier/video/7000809985156451590)<!-- .element: target="_blank" -->
+7. [Consider V School if you are a veteran](https://www.tiktok.com/@johnvandivier/video/7010583839999298821)
+
+---
+
+### Useful External Resources
+
+<!-- all these really say is use codecademy or freecodecamp as external resources
+1. https://www.tiktok.com/@johnvandivier/video/6991990221269159174
+2. https://www.tiktok.com/@johnvandivier/video/6996870033339174150
+3. https://www.tiktok.com/@johnvandivier/video/7003695886966574342
+-->
+
+<!-- this one says Basic Git is needed and codecademy (front end path) includes basic git training -->
+<!-- https://www.tiktok.com/@johnvandivier/video/6997096762561268997 -->
+
+1. [Learn React Quickly](https://www.tiktok.com/@johnvandivier/video/7005195600216050949)
+2. [Free Website Hosting](https://www.tiktok.com/@johnvandivier/video/7007513003209919749)
+    1. Use GitHub Pages, Vercel, or Railway
+3. [GitHub Pages allows free portfolio hosting](https://www.tiktok.com/@johnvandivier/video/6994781519709523206)<!-- .element: target="_blank" -->
+4. [Free Office Hours with Notifications via Twitter](https://www.tiktok.com/@johnvandivier/video/6997580233922727173)<!-- .element: target="_blank" -->
+5. [Cristian Florea has free and paid learning resources](https://www.tiktok.com/@johnvandivier/video/7000809985156451590)<!-- .element: target="_blank" -->
     1. Cristian also has substantial experience working with European learners.
+6. [Mimo is a smart phone app that helps you learn to code!](https://www.tiktok.com/@johnvandivier/video/7002777679200095493)
 
 ---
 
@@ -206,24 +279,6 @@ related: https://www.tiktok.com/@johnvandivier/video/6997518388771753222
 
 TODO
 related: https://www.youtube.com/watch?v=V7yeF9AaBxM
-
----
-
-38. https://www.tiktok.com/@johnvandivier/video/7002777679200095493
-39. https://www.tiktok.com/@johnvandivier/video/7003085234795269381
-40. https://www.tiktok.com/@johnvandivier/video/7003115612809497861
-41. https://www.tiktok.com/@johnvandivier/video/7003353891140095237
-42. https://www.tiktok.com/@johnvandivier/video/7003695886966574342
-43. https://www.tiktok.com/@johnvandivier/video/7003798278550670598
-44. https://www.tiktok.com/@johnvandivier/video/7004185744801582341
-45. https://www.tiktok.com/@johnvandivier/video/7005195600216050949
-46. https://www.tiktok.com/@johnvandivier/video/7007513003209919749
-47. https://www.tiktok.com/@johnvandivier/video/7008216942616087814
-48. https://www.tiktok.com/@johnvandivier/video/7008265831650184453
-49. https://www.tiktok.com/@johnvandivier/video/7010551435708386565
-50. https://www.tiktok.com/@johnvandivier/video/7010551435708386565
-51. https://www.tiktok.com/@johnvandivier/video/7010583839999298821
-52. https://www.tiktok.com/@johnvandivier/video/7010733751814688006
 
 ---
 
@@ -341,6 +396,7 @@ https://www.tiktok.com/@johnvandivier/video/7011300261297687814
 ## Optional Advanced Tech Skills
 
 1. [Why VS Code](https://www.tiktok.com/@johnvandivier/video/6995177591158230278)
+    1. https://www.tiktok.com/@johnvandivier/video/7003798278550670598
 
 https://www.tiktok.com/@js_bits/video/6986616534466579718
 https://www.tiktok.com/@johnvandivier/video/6994933767014059270
@@ -412,7 +468,6 @@ https://www.tiktok.com/@johnvandivier/video/7006113111002320133
 https://www.tiktok.com/@johnvandivier/video/7006386444826709254
 https://www.tiktok.com/@johnvandivier/video/7006879246534692101
 https://www.tiktok.com/@johnvandivier/video/7007424530385865989
-https://www.tiktok.com/@johnvandivier/video/7007513003209919749
 https://www.tiktok.com/@johnvandivier/video/7008524621238570246
 https://www.tiktok.com/@johnvandivier/video/7008749086878813446
 https://www.tiktok.com/@johnvandivier/video/7008976841176403205
