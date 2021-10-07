@@ -99,29 +99,29 @@ MIT licensed
 
 ### Why Tech + Programming?
 
-16. [You can leverage a degree from any field.](https://www.tiktok.com/@johnvandivier/video/6990788623079656710)
+16. [You can leverage a degree from any field.](https://www.tiktok.com/@johnvandivier/video/6990788623079656710) <!-- .element: target="_blank" -->
 
 ---
 
 ### Why React?
 
-1. [Python Tutorials and Docs are Often Outdated](https://www.tiktok.com/@johnvandivier/video/6990342369321258246)
-2. [React and JavaScript are Full-Stack Technologies.](https://www.tiktok.com/@johnvandivier/video/6990381670717263109)
+1. [Python Tutorials and Docs are Often Outdated](https://www.tiktok.com/@johnvandivier/video/6990342369321258246) <!-- .element: target="_blank" -->
+2. [React and JavaScript are Full-Stack Technologies.](https://www.tiktok.com/@johnvandivier/video/6990381670717263109) <!-- .element: target="_blank" -->
     - Python is a server-side language. This supports comparatively fewer use cases.
-3. [The mental model for web development is already familiar to most people.](https://www.tiktok.com/@johnvandivier/video/6990694910596746502)
+3. [The mental model for web development is already familiar to most people.](https://www.tiktok.com/@johnvandivier/video/6990694910596746502) <!-- .element: target="_blank" -->
 
 ---
 
 ### Why React?
 
-4. [AI and ML use cases for Python are not beginnger-friendly.](https://www.tiktok.com/@johnvandivier/video/6990869073198583046)
+4. [AI and ML use cases for Python are not beginnger-friendly.](https://www.tiktok.com/@johnvandivier/video/6990869073198583046) <!-- .element: target="_blank" -->
     - Even if you get the code down, you could use AI or ML in a dangerous way if you don't understand statistics.
 
 ---
 
 ### Why a Coaching Program?
 
-1. [You're able to leverage your mentor's social network.](https://www.tiktok.com/@johnvandivier/video/6992669586650909957)
+1. [You're able to leverage your mentor's social network.](https://www.tiktok.com/@johnvandivier/video/6992669586650909957) <!-- .element: target="_blank" -->
 
 ---
 
@@ -205,7 +205,7 @@ TODO
 
 ### Googling Techniques
 
-[Source: Fireship, "How to 'Google It' like a Senior Software Engineer"](https://www.youtube.com/watch?v=cEBkvm0-rg0)
+[Source: Fireship, "How to 'Google It' like a Senior Software Engineer"](https://www.youtube.com/watch?v=cEBkvm0-rg0) <!-- .element: target="_blank" -->
 
 1. If you run into a code error or log message, try literally searching the message.
 2. Refine search using double-quotes for an exact match.
