@@ -65,6 +65,11 @@ MIT licensed
 
 ---
 
+TODO: importance of soft skills and overview of the jobs search
+related: https://www.tiktok.com/@johnvandivier/video/6997518388771753222
+
+---
+
 ### Why Tech + Programming?
 
 [Source: Clément Mihailescu, "15 Reasons To Become A Software Engineer"](https://www.youtube.com/watch?v=8_Q7psvRxTM) <!-- .element: target="_blank" -->
@@ -100,6 +105,8 @@ MIT licensed
 ### Why Tech + Programming?
 
 16. [You can leverage a degree from any field.](https://www.tiktok.com/@johnvandivier/video/6990788623079656710) <!-- .element: target="_blank" -->
+17. [Other Tech Jobs Besides Developer](https://www.tiktok.com/@johnvandivier/video/6995607771248938245) <!-- .element: target="_blank" -->
+    1. Also, Tester, Designer, Scrum Master, Business Analyst, and many more!
 
 ---
 
@@ -114,79 +121,109 @@ MIT licensed
 
 ### Why React?
 
-4. [AI and ML use cases for Python are not beginnger-friendly.](https://www.tiktok.com/@johnvandivier/video/6990869073198583046) <!-- .element: target="_blank" -->
-    - Even if you get the code down, you could use AI or ML in a dangerous way if you don't understand statistics.
+4. [AI and ML use cases for Python are not beginner-friendly.](https://www.tiktok.com/@johnvandivier/video/6990869073198583046) <!-- .element: target="_blank" -->
+    1. AI and ML may be dangerous when used by developers that don't understand statistics.
+5. Why Learn React instead of Angular?
+    1. [Job availability](https://www.tiktok.com/@johnvandivier/video/6994104033115950341) <!-- .element: target="_blank" -->
+    2. [Same for Flutter, Svelte, Vue, and others](https://www.tiktok.com/@johnvandivier/video/6994165996957207813) <!-- .element: target="_blank" -->
+    3. [React Native has special cross-platform uses](https://www.tiktok.com/@johnvandivier/video/6994519065960189190) <!-- .element: target="_blank" -->
+
+---
+
+### Why React?
+
+6. [Some Reasons to Learn JavaScript](https://www.tiktok.com/@johnvandivier/video/6994227668136824069)
+    1. Platform and use-case versatility
+    2. Familiar mental model
+        <!-- make the point that React supports both JS and TS -->
+        <!-- Python is niche-ier; recommended for data science, AI, and ML, but it's a worse server language...flask and django and drupal are gross...-->
+7. JavaScript and React are more popular, loved, and wanted than alternatives
+    1. Specifically considering Angular, Vue, Python, Flask, and Django as the alternatives
+    2. According to Stack Overflow surveys from [2019](https://insights.stackoverflow.com/survey/2019)<!-- .element: target="_blank" -->,
+       [2020](https://insights.stackoverflow.com/survey/2020)<!-- .element: target="_blank" -->,
+       and [2021](https://insights.stackoverflow.com/survey/2021)<!-- .element: target="_blank" -->
+    3. To be fair, in 2019, Python as a language was loved more than TypeScript, although none of the Python frameworks were highly desired.
 
 ---
 
 ### Why a Coaching Program?
 
-1. [You're able to leverage your mentor's social network.](https://www.tiktok.com/@johnvandivier/video/6992669586650909957) <!-- .element: target="_blank" -->
+1. [You're able to leverage your mentor's social network.](https://www.tiktok.com/@johnvandivier/video/6992669586650909957)<!-- .element: target="_blank" -->
+2. [How do mentors add value?](https://www.tiktok.com/@johnvandivier/video/6997803330994965766)<!-- .element: target="_blank" -->
+    1. Enhanced social network
+    2. Give referals and references
+    3. Help practice interviews
+    4. Help you learn better by accelerating and decelerating pace of learning, tailored to you
+    5. Can help you find and learn the latest tech, instead of learning a fixed curriculum optimized for a prior point in time.
 
 ---
 
 ### Useful External Resources
 
-<!-- all this really says is use codecademy or freecodecamp as external resources
-1. https://www.tiktok.com/@johnvandivier/video/6991990221269159174 -->
+<!-- all these really say is use codecademy or freecodecamp as external resources
+1. https://www.tiktok.com/@johnvandivier/video/6991990221269159174
+2. https://www.tiktok.com/@johnvandivier/video/6996870033339174150
+-->
 
 <!-- this one says Basic Git is needed and codecademy (front end path) includes basic git training -->
 <!-- https://www.tiktok.com/@johnvandivier/video/6997096762561268997 -->
 
-10. https://www.tiktok.com/@johnvandivier/video/6993842693470162181
-11. https://www.tiktok.com/@johnvandivier/video/6993864039923338502
-12. https://www.tiktok.com/@johnvandivier/video/6993912620315102469
-13. https://www.tiktok.com/@johnvandivier/video/6994104033115950341
-14. https://www.tiktok.com/@johnvandivier/video/6994165996957207813
-15. https://www.tiktok.com/@johnvandivier/video/6994227668136824069
-16. https://www.tiktok.com/@johnvandivier/video/6994266753912163589
-17. https://www.tiktok.com/@johnvandivier/video/6994457304586390790
-18. https://www.tiktok.com/@johnvandivier/video/6994519065960189190
-19. https://www.tiktok.com/@johnvandivier/video/6994566707528338693
-20. https://www.tiktok.com/@johnvandivier/video/6994585026537032966
-21. https://www.tiktok.com/@johnvandivier/video/6994611296356404485
-22. https://www.tiktok.com/@johnvandivier/video/6994650938317360389
-23. https://www.tiktok.com/@johnvandivier/video/6994781519709523206
-24. https://www.tiktok.com/@johnvandivier/video/6994821557419822341
-25. https://www.tiktok.com/@johnvandivier/video/6994965079703801093
-26. https://www.tiktok.com/@johnvandivier/video/6995177591158230278
-27. https://www.tiktok.com/@johnvandivier/video/6995607771248938245
-28. https://www.tiktok.com/@johnvandivier/video/6995978285821873414
-29. https://www.tiktok.com/@johnvandivier/video/6996870033339174150
-30. https://www.tiktok.com/@johnvandivier/video/6997010529281707270
-31. https://www.tiktok.com/@johnvandivier/video/6997415919513373958
-32. https://www.tiktok.com/@johnvandivier/video/6997439039947246854
-33. https://www.tiktok.com/@johnvandivier/video/6997518388771753222
-34. https://www.tiktok.com/@johnvandivier/video/6997580233922727173
-35. https://www.tiktok.com/@johnvandivier/video/6997803330994965766
-36. https://www.tiktok.com/@johnvandivier/video/6998566097402350853
-37. https://www.tiktok.com/@johnvandivier/video/7000453974017035526
-38. https://www.tiktok.com/@johnvandivier/video/7000752494578044165
-39. https://www.tiktok.com/@johnvandivier/video/7000809985156451590
-40. https://www.tiktok.com/@johnvandivier/video/7001536494938737926
-41. https://www.tiktok.com/@johnvandivier/video/7001959741576547589
-42. https://www.tiktok.com/@johnvandivier/video/7001997811260738822
-43. https://www.tiktok.com/@johnvandivier/video/7002777679200095493
-44. https://www.tiktok.com/@johnvandivier/video/7003085234795269381
-45. https://www.tiktok.com/@johnvandivier/video/7003115612809497861
-46. https://www.tiktok.com/@johnvandivier/video/7003353891140095237
-47. https://www.tiktok.com/@johnvandivier/video/7003695886966574342
-48. https://www.tiktok.com/@johnvandivier/video/7003798278550670598
-49. https://www.tiktok.com/@johnvandivier/video/7004185744801582341
-50. https://www.tiktok.com/@johnvandivier/video/7005195600216050949
-51. https://www.tiktok.com/@johnvandivier/video/7007513003209919749
-52. https://www.tiktok.com/@johnvandivier/video/7008216942616087814
-53. https://www.tiktok.com/@johnvandivier/video/7008265831650184453
-54. https://www.tiktok.com/@johnvandivier/video/7010551435708386565
-55. https://www.tiktok.com/@johnvandivier/video/7010551435708386565
-56. https://www.tiktok.com/@johnvandivier/video/7010583839999298821
-57. https://www.tiktok.com/@johnvandivier/video/7010733751814688006
+#### How to identify a high-prestige bootcamp?
+
+[Source: John Vandivier, "Hirability and Educational Prestige"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3835966) <!-- .element: target="_blank" -->
+
+1. Use [coursereport.com](https://www.coursereport.com/) <!-- .element: target="_blank" -->
+2. Look for a bootcamp with a rating of 4.25 or greater and 400 or more reviews.
+
+---
+
+### Useful External Resources
+
+#### How to identify a high-prestige bootcamp?
+
+3. Currently, in the United States, App Academy and General Assembly are two recommended bootcamps.
+4. Le Wagon is an ideal bootcamp for many people outside of the United States.
+
+---
+
+5. [More things to consider when picking a bootcamp](https://www.tiktok.com/@johnvandivier/video/6993912620315102469) <!-- .element: target="_blank" -->
+    1. What is the placement rate and is a job guarantee offered?
+    2. What is the price and do flexible or deferred payment options exist?
+    3. Does the bootcamp accept GI Bill benefits or other tuition assistance?
+    4. Does the bootcamp offer the technology training that I am looking for? Does it offer React training?
+
+---
+
+6. [Don Hansen's YouTube Channel has in-depth bootcamp reviews](https://www.tiktok.com/@johnvandivier/video/6993864039923338502)<!-- .element: target="_blank" -->
+7. [GitHub Pages allows free portfolio hosting](https://www.tiktok.com/@johnvandivier/video/6994781519709523206)<!-- .element: target="_blank" -->
+8. [Free Office Hours with Notifications via Twitter](https://www.tiktok.com/@johnvandivier/video/6997580233922727173)<!-- .element: target="_blank" -->
+9. [Cristian Florea has free and paid learning resources](https://www.tiktok.com/@johnvandivier/video/7000809985156451590)<!-- .element: target="_blank" -->
+    1. Cristian also has substantial experience working with European learners.
 
 ---
 
 ### The Trial by Fire
 
 TODO
+related: https://www.youtube.com/watch?v=V7yeF9AaBxM
+
+---
+
+38. https://www.tiktok.com/@johnvandivier/video/7002777679200095493
+39. https://www.tiktok.com/@johnvandivier/video/7003085234795269381
+40. https://www.tiktok.com/@johnvandivier/video/7003115612809497861
+41. https://www.tiktok.com/@johnvandivier/video/7003353891140095237
+42. https://www.tiktok.com/@johnvandivier/video/7003695886966574342
+43. https://www.tiktok.com/@johnvandivier/video/7003798278550670598
+44. https://www.tiktok.com/@johnvandivier/video/7004185744801582341
+45. https://www.tiktok.com/@johnvandivier/video/7005195600216050949
+46. https://www.tiktok.com/@johnvandivier/video/7007513003209919749
+47. https://www.tiktok.com/@johnvandivier/video/7008216942616087814
+48. https://www.tiktok.com/@johnvandivier/video/7008265831650184453
+49. https://www.tiktok.com/@johnvandivier/video/7010551435708386565
+50. https://www.tiktok.com/@johnvandivier/video/7010551435708386565
+51. https://www.tiktok.com/@johnvandivier/video/7010583839999298821
+52. https://www.tiktok.com/@johnvandivier/video/7010733751814688006
 
 ---
 
@@ -286,7 +323,6 @@ https://www.tiktok.com/@johnvandivier/video/7003764996966452485
 ---
 
 https://www.tiktok.com/@johnvandivier/video/6993419750839815429
-https://www.tiktok.com/@johnvandivier/video/6994165996957207813
 https://www.tiktok.com/@johnvandivier/video/6995237983574117638
 https://www.tiktok.com/@johnvandivier/video/6997136067631582470
 https://www.tiktok.com/@johnvandivier/video/6997168179432754437
@@ -303,6 +339,8 @@ https://www.tiktok.com/@johnvandivier/video/7011300261297687814
 ---
 
 ## Optional Advanced Tech Skills
+
+1. [Why VS Code](https://www.tiktok.com/@johnvandivier/video/6995177591158230278)
 
 https://www.tiktok.com/@js_bits/video/6986616534466579718
 https://www.tiktok.com/@johnvandivier/video/6994933767014059270
@@ -338,6 +376,7 @@ https://www.tiktok.com/@johnvandivier/video/7008933997413666053
 
 ---
 
+https://www.tiktok.com/@johnvandivier/video/6997415919513373958
 https://www.tiktok.com/@johnvandivier/video/6990755604436389126
 https://www.tiktok.com/@johnvandivier/video/6992408142512409862
 https://www.tiktok.com/@johnvandivier/video/6992428753142025477
@@ -354,7 +393,6 @@ https://www.tiktok.com/@johnvandivier/video/6995738580060622085
 https://www.tiktok.com/@johnvandivier/video/6996412445812182277
 https://www.tiktok.com/@johnvandivier/video/6996766371598060806
 https://www.tiktok.com/@johnvandivier/video/6997039516741668101
-https://www.tiktok.com/@johnvandivier/video/6997415919513373958
 https://www.tiktok.com/@johnvandivier/video/6997497115609943301
 https://www.tiktok.com/@johnvandivier/video/6998255182932987142
 https://www.tiktok.com/@johnvandivier/video/6998359736320118021
@@ -387,6 +425,7 @@ https://leetcode.com/
 
 ## MISC (econ of education, other tiktok devs to follow, other resources)
 
+https://www.tiktok.com/@johnvandivier/video/6997010529281707270
 https://www.tiktok.com/@johnvandivier/video/6993823688193772806
 https://www.tiktok.com/@johnvandivier/video/6994419256439885061
 https://www.tiktok.com/@johnvandivier/video/6994513773650332934
