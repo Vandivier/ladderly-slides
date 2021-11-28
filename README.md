@@ -1,10 +1,10 @@
 # Ladderly Slides
 
-This is the open-sourced curriculum for [ladderly.io](https://ladderly.io)!
+This is the open-sourced curriculum for <a href="https://ladderly.io" target="_blank">ladderly.io</a>!
 
-View this information as [a slideshow here](https://vandivier.github.io/ladderly-slides/)!
+View this information as <a href="https://vandivier.github.io/ladderly-slides" target="_blank">a slideshow here</a>!
 
-Proudly built using [reveal.js](https://github.com/hakimel/reveal.js).
+Proudly built using <a href="https://github.com/hakimel/reveal.js" target="_blank">reveal.js</a>.
 
 reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free.
 
@@ -58,16 +58,12 @@ MIT licensed
 2. <a href="#why-react">Why React?</a>
 3. <a href="#why-a-coaching-program">Why a Coaching Program?</a>
 4. <a href="#how-to-identify-a-high-prestige-bootcamp">How to Identify a High-Prestige Bootcamp</a>
-5. <a href="#useful-external-resources">Useful External Resources</a>
+5. <a href="#overview-of-the-job-search">Overview of the Job Search</a>
+6. <a href="#useful-external-resources">Useful External Resources</a>
     <!-- -   Why a Mentor/Coach vs bootcamp vs self-taught vs university? -->
     <!-- -   persuasive/motivational/benefits of tech + programming -->
     <!-- -   good external resources -->
-6. <a href="#the-trial-by-fire">The Trial by Fire</a>
-
----
-
-TODO: importance of soft skills and overview of the jobs search
-related: https://www.tiktok.com/@johnvandivier/video/6997518388771753222
+7. <a href="#the-trial-by-fire">The Trial by Fire</a>
 
 ---
 
@@ -108,9 +104,9 @@ related: https://www.tiktok.com/@johnvandivier/video/6997518388771753222
 16. [You can leverage a degree from any field.](https://www.tiktok.com/@johnvandivier/video/6990788623079656710) <!-- .element: target="_blank" -->
 17. [Other Tech Jobs Besides Developer](https://www.tiktok.com/@johnvandivier/video/6995607771248938245) <!-- .element: target="_blank" -->
     1. Also, Tester, Designer, Scrum Master, Business Analyst, and many more!
-18. [Programming Supports a Digital Nomad Lifestyle](https://www.tiktok.com/@johnvandivier/video/7003115612809497861)
+18. [Programming Supports a Digital Nomad Lifestyle](https://www.tiktok.com/@johnvandivier/video/7003115612809497861) <!-- .element: target="_blank" -->
 <!-- TODO: is this too redundent with the remote friendly point? -->
-19. [For programmers, remote working is becoming the norm](https://www.economist.com/graphic-detail/2021/08/11/for-programmers-remote-working-is-becoming-the-norm)
+19. [For programmers, remote working is becoming the norm](https://www.economist.com/graphic-detail/2021/08/11/for-programmers-remote-working-is-becoming-the-norm) <!-- .element: target="_blank" -->
 <!-- note: this is def redundent with the remote friendly point, but here we have striking and useful data, instead of just clement word of mouth -->
 
 ---
@@ -249,7 +245,13 @@ related: https://www.tiktok.com/@johnvandivier/video/6997518388771753222
 ### How to Identify a High-Prestige Bootcamp
 
 6. [Don Hansen's YouTube Channel has in-depth bootcamp reviews](https://www.tiktok.com/@johnvandivier/video/6993864039923338502)<!-- .element: target="_blank" -->
-7. [Consider V School if you are a veteran](https://www.tiktok.com/@johnvandivier/video/7010583839999298821)
+7. [Consider V School if you are a veteran](https://www.tiktok.com/@johnvandivier/video/7010583839999298821)<!-- .element: target="_blank" -->
+
+---
+
+### Overview of the Job Search
+
+1. [Overview of the Job Search](https://www.tiktok.com/@johnvandivier/video/6997518388771753222)<!-- .element: target="_blank" -->
 
 ---
 
@@ -264,14 +266,14 @@ related: https://www.tiktok.com/@johnvandivier/video/6997518388771753222
 <!-- this one says Basic Git is needed and codecademy (front end path) includes basic git training -->
 <!-- https://www.tiktok.com/@johnvandivier/video/6997096762561268997 -->
 
-1. [Learn React Quickly](https://www.tiktok.com/@johnvandivier/video/7005195600216050949)
-2. [Free Website Hosting](https://www.tiktok.com/@johnvandivier/video/7007513003209919749)
+1. [Learn React Quickly](https://www.tiktok.com/@johnvandivier/video/7005195600216050949)<!-- .element: target="_blank" -->
+2. [Free Website Hosting](https://www.tiktok.com/@johnvandivier/video/7007513003209919749)<!-- .element: target="_blank" -->
     1. Use GitHub Pages, Vercel, or Railway
 3. [GitHub Pages allows free portfolio hosting](https://www.tiktok.com/@johnvandivier/video/6994781519709523206)<!-- .element: target="_blank" -->
 4. [Free Office Hours with Notifications via Twitter](https://www.tiktok.com/@johnvandivier/video/6997580233922727173)<!-- .element: target="_blank" -->
 5. [Cristian Florea has free and paid learning resources](https://www.tiktok.com/@johnvandivier/video/7000809985156451590)<!-- .element: target="_blank" -->
     1. Cristian also has substantial experience working with European learners.
-6. [Mimo is a smart phone app that helps you learn to code!](https://www.tiktok.com/@johnvandivier/video/7002777679200095493)
+6. [Mimo is a smart phone app that helps you learn to code!](https://www.tiktok.com/@johnvandivier/video/7002777679200095493)<!-- .element: target="_blank" -->
 
 ---
 
