@@ -59,11 +59,11 @@ MIT licensed
 3. <a href="#why-a-coaching-program">Why a Coaching Program?</a>
 4. <a href="#how-to-identify-a-high-prestige-bootcamp">How to Identify a High-Prestige Bootcamp</a>
 5. <a href="#overview-of-the-job-search">Overview of the Job Search</a>
-6. <a href="#useful-external-resources">Useful External Resources</a>
     <!-- -   Why a Mentor/Coach vs bootcamp vs self-taught vs university? -->
     <!-- -   persuasive/motivational/benefits of tech + programming -->
     <!-- -   good external resources -->
-7. <a href="#the-trial-by-fire">The Trial by Fire</a>
+6. <a href="#the-trial-by-fire">The Trial by Fire</a>
+7. <a href="#useful-external-resources">Useful External Resources</a>
 
 ---
 
@@ -94,7 +94,7 @@ MIT licensed
 11. Technology is Included in Every Industry
 12. Programming Now Supports Many Career Choices Later
 13. Immediate Feedback
-14. Incredibly Amount of Custom Tools
+14. Incredible Amount of Custom Tools
 15. Can Help You Do Almost Anything. At Work or in your Personal Life.
 
 ---
@@ -115,18 +115,17 @@ MIT licensed
 
 ### Why React?
 
-1. [Python Tutorials and Docs are Often Outdated](https://www.tiktok.com/@johnvandivier/video/6990342369321258246) <!-- .element: target="_blank" -->
-2. [React and JavaScript are Full-Stack Technologies.](https://www.tiktok.com/@johnvandivier/video/6990381670717263109) <!-- .element: target="_blank" -->
+1. [React and JavaScript are Full-Stack Technologies.](https://www.tiktok.com/@johnvandivier/video/6990381670717263109) <!-- .element: target="_blank" -->
     - Python is a server-side language. This supports comparatively fewer use cases.
-3. [The mental model for web development is already familiar to most people.](https://www.tiktok.com/@johnvandivier/video/6990694910596746502) <!-- .element: target="_blank" -->
+2. [The mental model for web development is already familiar to most people.](https://www.tiktok.com/@johnvandivier/video/6990694910596746502) <!-- .element: target="_blank" -->
 
 ---
 
 ### Why React?
 
-4. [AI and ML use cases for Python are not beginner-friendly.](https://www.tiktok.com/@johnvandivier/video/6990869073198583046) <!-- .element: target="_blank" -->
+3. [AI and ML use cases for Python are not beginner-friendly.](https://www.tiktok.com/@johnvandivier/video/6990869073198583046) <!-- .element: target="_blank" -->
     1. AI and ML may be dangerous when used by developers that don't understand statistics.
-5. Why Learn React instead of Angular?
+4. Why Learn React instead of Angular?
     1. [Job availability](https://www.tiktok.com/@johnvandivier/video/6994104033115950341) <!-- .element: target="_blank" -->
     2. [Same for Flutter, Svelte, Vue, and others](https://www.tiktok.com/@johnvandivier/video/6994165996957207813) <!-- .element: target="_blank" -->
     3. [React Native has special cross-platform uses](https://www.tiktok.com/@johnvandivier/video/6994519065960189190) <!-- .element: target="_blank" -->
@@ -135,7 +134,7 @@ MIT licensed
 
 ### Why React?
 
-6. Learning React helps you quickly land a great job
+5. Learning React helps you quickly land a great job
     1. JavaScript is the most popular programming language according to Stack Overflow surveys from [2019](https://insights.stackoverflow.com/survey/2019)<!-- .element: target="_blank" -->,
        [2020](https://insights.stackoverflow.com/survey/2020)<!-- .element: target="_blank" -->,
        [2021](https://insights.stackoverflow.com/survey/2021)<!-- .element: target="_blank" -->,
@@ -146,7 +145,7 @@ MIT licensed
 
 ### Why React?
 
-7. Learning React helps you grow
+6. Learning React helps you grow
     1. React can be written using JavaScript or TypeScript
     2. JavaScript and TypeScript are multi-paradigm
     3. React, JS, and TS are cross-platform, full-stack technologies with many use cases
@@ -156,11 +155,11 @@ MIT licensed
 
 ### Why React?
 
-8. Most people don't intend to work in data science
+7. Most people don't intend to work in data science
     1. Python is associated with a data science niche
     2. React has more results in a refined job search that excludes data engineering roles
     3. AI, ML, server-side, and non-graphical programs are not intuitive for most people
-9. Websites and mobile apps involve a familar mental model
+8. Websites and mobile apps involve a familar mental model
 
 <!-- python -data -javascript -node.js -->
 <!-- TODO: have a source -->
@@ -168,25 +167,25 @@ MIT licensed
 <!-- 3. Python is also multi-paradigm -->
 <!-- 5. As a result, React is a best-fit for most aspirational software engineers -->
 
-<!-- ---
+---
 
 ### Why React?
 
 9. [More beginner friendly than C++](https://www.tiktok.com/@johnvandivier/video/7003353891140095237)
 
-    1. With JavaScript, we don't have to manually manage memory
-    2. React can be gradually learned, implemented, and adopted
-    3. React has more use cases than C++
+    1. Python and JavaScript considered beginner friendly. C++ and many other langs are not.
+    2. With JavaScript, we don't have to manually manage memory
+    3. React can be gradually learned, implemented, and adopted
 
 ---
 
 ### Why React?
 
-8. [More beginner friendly than C++](https://www.tiktok.com/@johnvandivier/video/7003353891140095237)
+10. [More beginner friendly than C++](https://www.tiktok.com/@johnvandivier/video/7003353891140095237)
 
     4. A career focusing on C++ is associated with poor work-life balance and low maximum salary.
     5. React has higher starting salary compared to C++
-    6. [JavaScript is more popular, loved, and wanted](https://insights.stackoverflow.com/survey/2021#most-loved-dreaded-and-wanted-language-love-dread) among developers compared to C++ -->
+    6. [JavaScript is more popular, loved, and wanted](https://insights.stackoverflow.com/survey/2021#most-loved-dreaded-and-wanted-language-love-dread) among developers compared to C++
 
 ---
 
@@ -255,6 +254,12 @@ MIT licensed
 
 ---
 
+### The Trial by Fire
+
+## Source: [The Trial by Fire](https://www.youtube.com/watch?v=V7yeF9AaBxM)<!-- .element: target="_blank" -->
+
+---
+
 ### Useful External Resources
 
 <!-- all these really say is use codecademy or freecodecamp as external resources
@@ -274,13 +279,6 @@ MIT licensed
 5. [Cristian Florea has free and paid learning resources](https://www.tiktok.com/@johnvandivier/video/7000809985156451590)<!-- .element: target="_blank" -->
     1. Cristian also has substantial experience working with European learners.
 6. [Mimo is a smart phone app that helps you learn to code!](https://www.tiktok.com/@johnvandivier/video/7002777679200095493)<!-- .element: target="_blank" -->
-
----
-
-### The Trial by Fire
-
-TODO
-related: https://www.youtube.com/watch?v=V7yeF9AaBxM
 
 ---
 
