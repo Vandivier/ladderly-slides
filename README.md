@@ -187,7 +187,7 @@ License: MIT licensed
 
 ### Why React?
 
-9. [More beginner friendly than C++](https://www.tiktok.com/@johnvandivier/video/7003353891140095237)
+9. [More beginner friendly than C++](https://www.tiktok.com/@johnvandivier/video/7003353891140095237)<!-- .element: target="_blank" -->
 
     1. Python and JavaScript considered beginner friendly. C++ and many other langs are not.
     2. With JavaScript, we don't have to manually manage memory
@@ -197,13 +197,109 @@ License: MIT licensed
 
 ### Why React?
 
-10. [More beginner friendly than C++](https://www.tiktok.com/@johnvandivier/video/7003353891140095237)
+10. [More beginner friendly than C++](https://www.tiktok.com/@johnvandivier/video/7003353891140095237)<!-- .element: target="_blank" -->
 
     4. A career focusing on C++ is associated with poor work-life balance and low maximum salary.
     5. React has higher starting salary compared to C++
-    6. [JavaScript is more popular, loved, and wanted](https://insights.stackoverflow.com/survey/2021#most-loved-dreaded-and-wanted-language-love-dread) among developers compared to C++
+    6. [JavaScript is more popular, loved, and wanted](https://insights.stackoverflow.com/survey/2021#most-loved-dreaded-and-wanted-language-love-dread) among developers compared to C++<!-- .element: target="_blank" -->
 
 ---
+
+### Why a Coaching Program?
+
+#### Comparing Colleges, Bootcamps, Coaches, and Self-Teaching
+
+1. You get maximum ROI if you can effectively and rapidly self-teach.
+2. Try self-teaching by taking the free [Codecademy Learn HTML course](https://www.codecademy.com/learn/learn-html).<!-- .element: target="_blank" -->
+3. Given the results of this test, other options might be recommended.
+
+---
+
+### Why a Coaching Program?
+
+#### When to Prefer Self-Teaching
+
+1. Prefer self-teaching by default.
+2. If you didn't enjoy the self-teaching experiment earlier described, consider another option.
+3. If you don't have a job after 12 months, this is a sign that you should consider other options.
+4. If you don't want to invest up to 12 months in self-teaching, other options might get you job ready sooner.
+
+---
+
+### When to Prefer a Bootcamp
+
+1. You find [a prestigious bootcamp](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3835966) that has acceptable terms.<!-- .element: target="_blank" -->
+    - Check the price, payment options, refund policy, technologies taught, and course schedule.
+2. You qualify for admission.
+    - Note that quality bootcamp prep is also available, [here for example](https://www.appacademy.io/course/bootcamp-prep-online).<!-- .element: target="_blank" -->
+
+---
+
+### Why a Coaching Program?
+
+### When to Prefer Coaching or Mentorship
+
+1. You already have a career and you are seeking to level-up.
+2. You need help getting references or referrals.
+3. You want social learning, but you don't want a bootcamp.
+    - For example, learning at a bootcamps might lack personalization, be too fast, too slow, or have unacceptable terms.
+4. You are already in a bootcamp or college program, but you want additional help.
+
+---
+
+### Why a Coaching Program?
+
+#### When to Prefer College
+
+1. If other options don't work, consider this as a fallback plan.
+2. If you are able to complete college at a reasonable price and within a reasonable period of time.
+    - Many employers will subsidize or entirely pay for college. Consider [Guild Education partners](https://en.wikipedia.org/w/index.php?title=Guild_Education&oldid=1060668579).
+    - Certain individuals may qualify for unique scholarships.
+    - Don't forget to include opportunity cost in your college price analysis!
+
+---
+
+### Why a Coaching Program?
+
+#### When to Prefer College
+
+3. If a slower pace of learning is ideal for you
+    - Specifically, you want longer than 1 year to learn to code.
+4. You already have a career, but a degree could help you advance
+    - Undergraduate and graduate degrees may help you advance into management
+    - Earning a degree may appear positive on your corporate performance review
+
+---
+
+<!-- in common: employers see tech skills
+
+-   employers see soft skill deficit
+-   some learning providers are just bad
+
+differences:
+
+1. college has a long learning horizon (5 year average), lower educational spend ROI, higher cost, debt load
+   a. however, it's kind of changing Guild Education partners with Walmart, Target, Amazon, and others...to offer totally free college to all associates, even part-time
+   b. but it does help
+2. bootcamps are fast, cheaper
+   a. 1-size-fits-all-pace
+   b. teachers and career services are often non-senior dev quality themselves
+3. self-teaching can be great, but you need to be smart and self-driven (not many are)
+   a. you can get stuck in tutorial hell
+   b. you can miss major concepts without realizing it and end up taking even longer to land your first job
+   c. can be free out-of-pocket, but don't ignore time costs!
+4. coaching costs money
+   a. can do deferred payment
+   b. can tailor learning to your speed: faster, slower
+   c. can supplement with coaching, it doesn't have to be by itself
+
+ladderly plug: focus on skills and job search techniques not taught elsewhere!
+focus on tech skills in highest salary and employability: (namely React.js)
+
+related literature:
+
+1. Hirability and Educational Prestige, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3835966
+2. Conformity and Soft Skills as Determinants of Alternatively Credentialed Non-College Graduate Hireability, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3829269 -->
 
 ### Why a Coaching Program?
 
@@ -591,51 +687,8 @@ but I would encourage you to go for code:
 
 1. ease of entry: no degree needed, just have a github portfolio!
 2. top salary, many job opportunities, even compared to other tech roles
-
 3. logrocket podcast
 4. jason lengstorf
-5.
-
-## Comparing Colleges, Bootcamps, Coaches, and Self-Teaching
-
-in common: employers see tech skills
-
--   employers see soft skill deficit
--   some learning providers are just bad
-
-differences:
-
-1. college has a long learning horizon (5 year average), lower educational spend ROI, higher cost, debt load
-   a. however, it's kind of changing Guild Education partners with Walmart, Target, Amazon, and others...to offer totally free college to all associates, even part-time
-   b. but it does help
-2. bootcamps are fast, cheaper
-   a. 1-size-fits-all-pace
-   b. teachers and career services are often non-senior dev quality themselves
-3. self-teaching can be great, but you need to be smart and self-driven (not many are)
-   a. you can get stuck in tutorial hell
-   b. you can miss major concepts without realizing it and end up taking even longer to land your first job
-   c. can be free out-of-pocket, but don't ignore time costs!
-4. coaching costs money
-   a. can do deferred payment
-   b. can tailor learning to your speed: faster, slower
-   c. can supplement with coaching, it doesn't have to be by itself
-
-ladderly plug: focus on skills and job search techniques not taught elsewhere!
-focus on tech skills in highest salary and employability: (namely React.js)
-
-related literature:
-
-1. Hirability and Educational Prestige, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3835966
-2. Conformity and Soft Skills as Determinants of Alternatively Credentialed Non-College Graduate Hireability, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3829269
-
-\*\*\*\* understanding community resources (for http://ladderly.io/)
-
-1. Free Office Hours (regular and ad hoc) regularly at 7 PM ET on Saturday - ask anything coding related
-2. Ladderly Discord
-3. YouTube, TikTok, and Twitter - social networking
-    1. YouTube streams
-    2. TikTok has #devcrew and tons of free content on my page @johnvandiver
-    3. Twitter Spaces (ad hoc basis currently) get notified of ad hoc streams @johnvandivier
 
 ---
 
