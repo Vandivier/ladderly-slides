@@ -8,11 +8,7 @@ Proudly built using <a href="https://github.com/hakimel/reveal.js" target="_blan
 
 reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free.
 
----
-
-## License
-
-MIT licensed
+License: MIT licensed
 
 ---
 
@@ -20,7 +16,7 @@ MIT licensed
 
 ### pt. 1/3, Learn to Code
 
-1. <a href="#/introduction-the-master-plan">Introduction, "The Master Plan"</a>
+1. <a href="#/introduction-understanding-the-master-plan">Introduction: Understanding the Master Plan</a>
 2. <a href="#/basic-technical-skills">Basic Technical Skills</a>
 3. <a href="#/html">HTML</a>
 4. <a href="#/css">CSS</a>
@@ -50,20 +46,40 @@ MIT licensed
 
 ---
 
-## Introduction, "The Master Plan"
+## Introduction: Understanding the Master Plan
 
 ### Key Points
 
-1. <a href="#why-tech--programming">Why Tech + Programming?</a>
-2. <a href="#why-react">Why React?</a>
-3. <a href="#why-a-coaching-program">Why a Coaching Program?</a>
-4. <a href="#how-to-identify-a-high-prestige-bootcamp">How to Identify a High-Prestige Bootcamp</a>
-5. <a href="#overview-of-the-job-search">Overview of the Job Search</a>
+1. <a href="#understanding-community-resources">Understanding Community Resources</a>
+2. <a href="#why-tech--programming">Why Tech + Programming?</a>
+3. <a href="#why-react">Why React?</a>
+4. <a href="#why-a-coaching-program">Why a Coaching Program?</a>
+5. <a href="#how-to-identify-a-high-prestige-bootcamp">How to Identify a High-Prestige Bootcamp</a>
+6. <a href="#overview-of-the-job-search">Overview of the Job Search</a>
     <!-- -   Why a Mentor/Coach vs bootcamp vs self-taught vs university? -->
     <!-- -   persuasive/motivational/benefits of tech + programming -->
     <!-- -   good external resources -->
-6. <a href="#the-trial-by-fire">The Trial by Fire</a>
-7. <a href="#useful-external-resources">Useful External Resources</a>
+7. <a href="#the-trial-by-fire">The Trial by Fire</a>
+8. <a href="#useful-external-resources">Useful External Resources</a>
+
+---
+
+### Understanding Community Resources
+
+[Source: "Welcome to Ladderly! Overview of Community"](https://www.youtube.com/watch?v=FVJGoZt7HEU) <!-- .element: target="_blank" -->
+
+1. Follow John [on Twitter here](https://twitter.com/JohnVandivier). Directly message him any time! <!-- .element: target="_blank" -->
+2. Join the Ladderly Discord. You will be automatically invited when you [sign up for Ladderly](http://ladderly.io/). <!-- .element: target="_blank" -->
+    - If there was an issue, just send John a message through Twitter.
+
+---
+
+### Understanding Community Resources
+
+3. Ask questions in the comments of videos or even make your own videos on TikTok using #DevCrew and #CodeTok
+4. The entire Ladderly curriculum is open source and you can view it [here on GitHub](https://github.com/Vandivier/ladderly-slides). <!-- .element: target="_blank" -->
+    - You could even contribute if you feel something should be added!
+5. Watch weekly live streams on [John's YouTube channel](https://www.youtube.com/c/JohnVandivier) where you can ask anything! <!-- .element: target="_blank" -->
 
 ---
 

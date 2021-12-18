@@ -119,7 +119,8 @@ section.has-light-background h6 {
  *********************************************/
 .reveal p {
     margin: var(--r-block-margin) 0;
-    line-height: 1.3;
+    line-height: 2.5rem;
+    text-align: left;
 }
 
 /* Remove trailing margins after titles */
