@@ -55,12 +55,12 @@ License: MIT licensed
 3. <a href="#why-react">Why React?</a>
 4. <a href="#why-a-coaching-program">Why a Coaching Program?</a>
 5. <a href="#how-to-identify-a-high-prestige-bootcamp">How to Identify a High-Prestige Bootcamp</a>
-6. <a href="#overview-of-the-job-search">Overview of the Job Search</a>
-    <!-- -   Why a Mentor/Coach vs bootcamp vs self-taught vs university? -->
-    <!-- -   persuasive/motivational/benefits of tech + programming -->
-    <!-- -   good external resources -->
-7. <a href="#the-trial-by-fire">The Trial by Fire</a>
-8. <a href="#useful-external-resources">Useful External Resources</a>
+6. <a href="#overview-of-the-front-end-path">Overview of the Front-End Path</a>
+7. <a href="#overview-of-the-job-search">Overview of the Job Search</a>
+8. <a href="#overview-of-post-hire-care-and-development">Overview of Post-Hire Care and Development</a>
+ <!-- -   persuasive/motivational/benefits of tech + programming -->
+9. <a href="#external-resources">External Resources</a>
+10. <a href="#the-trial-by-fire">The Trial by Fire</a>
 
 ---
 
@@ -360,9 +360,62 @@ related literature:
 
 ---
 
+### Overview of the Front-End Path
+
+1. HTML
+2. CSS
+3. JavaScript
+4. React with Redux
+
+---
+
 ### Overview of the Job Search
 
 1. [Overview of the Job Search](https://www.tiktok.com/@johnvandivier/video/6997518388771753222)<!-- .element: target="_blank" -->
+2. Have a high-quality GitHub Portfolio and LinkedIn Profile
+3. Get skill certifications from LinkedIn and Indeed
+4. Enlist third-party recruiters like those working at [TEKsystems](https://www.teksystems.com/en)
+5. Optimize your resume. Utilize [Indeed Resume Services](https://www.indeed.com/career-advice/resumes-cover-letters/indeed-resume-review).
+
+---
+
+### Overview of the Job Search
+
+6. Strategically apply and follow up with companies of interest.
+7. Social network even outside of the application process.
+8. Continue to learn and grow.
+    - Focus on growing soft skills and full stack development skill.
+    - Try to work with other developers through open source, hackathons, and similar opportunities.
+
+<!-- ---
+TODO: move to detailed job search section
+
+Follow-up tips
+    - I recommend LinkedIn Easy Apply, Indeed, and [Ladders Apply4Me](https://www.theladders.com/apply4me)
+    - Do not apply for more than two roles at any given company, unless instructed to do so by an employee of that company.
+    - For each company at which you apply, find an employee on LinkedIn and network with them. -->
+
+---
+
+### Overview of Post-Hire Care and Development
+
+1. All post-hire care and development services are totally optional.
+2. Sessions to accelerate onboarding, fill in gaps, and combat imposter syndrome at your new role.
+3. Sessions to accelerate career movement from the tier 3 junior level to the tier 1 senior level.
+4. Sessions to accelerate development of new skills including full stack development, cloud architecture, new languages, etc.
+
+<!-- 1. understanding the difference between a junior, intermediate, and senior dev
+2. senior paths: people management, fullstack dev, architecture, specialist IC (in test, accessibility, in front end)
+3. what are t-shaped skills?
+4. learning testing, typescript, and other advanced topics
+5. how to succeed at a performance review
+6. how to win friends and influence people
+7. intrapraneurship
+8. how and when to change jobs
+9. other languages to learn
+10. post-hire coaching hours
+11. dealing with imposter syndrome
+12. cloud skills -->
 
 ---
 
@@ -372,7 +425,7 @@ related literature:
 
 ---
 
-### Useful External Resources
+### External Resources
 
 <!-- all these really say is use codecademy or freecodecamp as external resources
 1. https://www.tiktok.com/@johnvandivier/video/6991990221269159174
@@ -659,27 +712,12 @@ outlining the job search:
 6. attending meetups, conferences, and participating on social media (Twitter Spaces, tiktok, of course commenting on people's linkedIn conversations w/e)
 7. interview technique - coding, algorithm, behavioral, system design
 
----post-hire care & development
-
-1. understanding the difference between a junior, intermediate, and senior dev
-2. senior paths: people management, fullstack dev, architecture, specialist IC (in test, accessibility, in front end)
-3. what are t-shaped skills?
-4. learning testing, typescript, and other advanced topics
-5. how to succeed at a performance review
-6. how to win friends and influence people
-7. intrapraneurship
-8. how and when to change jobs
-9. other languages to learn
-10. post-hire coaching hours
-11. dealing with imposter syndrome
-12. cloud skills
-
-13. why tech
-    i. unique bc of no decreasing marginal return in the aggregate economy (Cobb–Douglas production function)
-    ii. better salary, better employment rate (https://insights.dice.com/2021/06/08/tech-unemployment-hits-2-4-percent-half-the-national-rate/)
-    a. also, quality of life, remote work, low stress - you can often leave work early, take big breaks, w/e as long as you get tasks done (time in chair doesn't really matter)
-    iii. technology is a horizontal industry - follow your passions! tech is an ally, whatever your passion is
-    iv. no degree needed! but, affordable business degrees gtg
+8. why tech
+   i. unique bc of no decreasing marginal return in the aggregate economy (Cobb–Douglas production function)
+   ii. better salary, better employment rate (https://insights.dice.com/2021/06/08/tech-unemployment-hits-2-4-percent-half-the-national-rate/)
+   a. also, quality of life, remote work, low stress - you can often leave work early, take big breaks, w/e as long as you get tasks done (time in chair doesn't really matter)
+   iii. technology is a horizontal industry - follow your passions! tech is an ally, whatever your passion is
+   iv. no degree needed! but, affordable business degrees gtg
 
 worth noting - lots of noncode tech roles. tech sales great for extroverts...product management, business analysis, scrum master...
 
