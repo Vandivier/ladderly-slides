@@ -384,7 +384,7 @@ related literature:
 6. Strategically apply and follow up with companies of interest.
 7. Social network even outside of the application process.
 8. Continue to learn and grow.
-    - Focus on growing soft skills and full stack development skill.
+    - Focus on growing soft skills, full stack development skill, and practing algorithm problems
     - Try to work with other developers through open source, hackathons, and similar opportunities.
 
 <!-- ---
