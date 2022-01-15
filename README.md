@@ -462,11 +462,29 @@ Follow-up tips
 
 ### External Resources
 
-Interview Prep
+Interview Prep, Data Structures and Algorithms (DS&A)
 
-1. [interviewing.io](https://interviewing.io/)
-2. [Interview Cake](https://www.interviewcake.com/)
-3. [AlgoExpert](https://www.algoexpert.io/) and [SystemsExpert](https://www.algoexpert.io/systems/product)
+[Leetcode](https://leetcode.com/) is the go-to DS&A prep tool. Tips on how to use it:
+
+1. Start with the [Ladderly Two Week Leetcode Crash Course](https://www.tiktok.com/@johnvandivier/video/7051041646728793349)
+2. Next complete the [Blind 75 and read the 14 Patterns Article](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+3. After steps 1 and 2 you are ready to start interviewing.
+    - Leetcode tracks question frequency for some companies.
+    - If you are interviewing at such a company, try to complete tracked questions with frequency >= 66%
+4. Optional: Complete all questions within [Sean Prashad's Leetcode Patterns Tool](https://seanprashad.com/leetcode-patterns/)
+5. Optional: Sort Leetcode questions by frequency and complete all with frequency >= 66%
+
+---
+
+### External Resources
+
+Interview Prep, Other
+
+1. Additional DS&A Prep: [AlgoExpert](https://www.algoexpert.io/)
+2. Mock Interviews including Behavioral: [interviewing.io](https://interviewing.io/)
+3. System Design Prep: [SystemsExpert](https://www.algoexpert.io/systems/product)
+4. Front-End Interview Prep: [frontend.eval](https://frontendeval.com/)
+5. Optional: The Antipatterns section describes some other tools and reasons they are not recommended.
 
 ---
 
@@ -722,17 +740,9 @@ https://www.tiktok.com/@johnvandivier/video/7002572293620714757
 
 https://www.tiktok.com/@johnvandivier/video/6992603088502803718
 
-## DON'T PRIORITIZE
-
-generators
-redux-saga
-css-grid
-
 ---
 
 # TODO: FIX README BELOW THIS POINT
-
----
 
 outlining the job search:
 
@@ -744,33 +754,22 @@ outlining the job search:
 6. attending meetups, conferences, and participating on social media (Twitter Spaces, tiktok, of course commenting on people's linkedIn conversations w/e)
 7. interview technique - coding, algorithm, behavioral, system design
 
-8. why tech
-   i. unique bc of no decreasing marginal return in the aggregate economy (Cobb–Douglas production function)
-   ii. better salary, better employment rate (https://insights.dice.com/2021/06/08/tech-unemployment-hits-2-4-percent-half-the-national-rate/)
-   a. also, quality of life, remote work, low stress - you can often leave work early, take big breaks, w/e as long as you get tasks done (time in chair doesn't really matter)
-   iii. technology is a horizontal industry - follow your passions! tech is an ally, whatever your passion is
-   iv. no degree needed! but, affordable business degrees gtg
+---
 
-worth noting - lots of noncode tech roles. tech sales great for extroverts...product management, business analysis, scrum master...
+### Antipatterns
 
-but I would encourage you to go for code:
+The value of these activities is expected to be negative net of opportunity cost, in particular when placed as a required step prior to landing the first software development role.
 
-1. ease of entry: no degree needed, just have a github portfolio!
-2. top salary, many job opportunities, even compared to other tech roles
-3. logrocket podcast
-4. jason lengstorf
+1. [Fullstack.Cafe](https://www.fullstack.cafe/interview-questions/cap-theorem) for job prep is expensive and trivia-focused. Likely to be unhelpful net of opportunity cost for interview prep.
+2. [Interview Cake](https://www.moonchaser.io/post/leetcode-premium-vs-algoexpert-vs-interview-cake-vs-hackerrank-comparison) for DS&A adds no value compared to Leetcode + AlgoExpert. AlgoExpert's high-quality video makes it preferred over Interview Cake.
+3. Prioritizing generators, redux-saga, css-grid, or frameworks other than React or Angular.
 
 ---
 
-Starboi vs Rockstarboi:
+TODO
 
-1. Material
-2. Prettier
-3. Error Boundaries
-4. Redux
-5. Prisma
-6. Next.js
-7. NextAuth
-8. Vercel
-9. react-hook-form vs contentEditable
-10. supabase for postgres db... (avoid supabase for auth...here prefer vercel cloudfunctions, or runkit, or full express backend w heroku or something)...(could get another db if needed)
+1. Behavioral Interview prep
+2. clean up readme
+3. record all lessons and publish non-free course (or release standard course as free)
+4. We know about social networking, but what about recommended meetups and conferences?
+5. more resources: logrocket podcast, jason lengstorf
