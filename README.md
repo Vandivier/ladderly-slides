@@ -423,10 +423,10 @@ Follow-up tips
 ### Interview Prep Stack
 
 1. The Ladderly Curriculum. In Particular:
-    - <a href="#/job-search">The Job Search Section</a>
-    - <a href="#external-resources">The External Resources Section</a>
-2. [Starboi](https://github.com/Vandivier/starboi), for Behavioral Interview Prep
-3. [Endorsed Communities](https://github.com/Vandivier/ladderly-slides/blob/main/docs/ENDORSED-COMMUNITIES.md), for social help
+    - <a href="#/job-search">The Job Search Section</a><!-- .element: target="_blank" -->
+    - <a href="#external-resources">The External Resources Section</a><!-- .element: target="_blank" -->
+2. [Starboi](https://github.com/Vandivier/starboi), for Behavioral Interview Prep<!-- .element: target="_blank" -->
+3. [Endorsed Communities](https://github.com/Vandivier/ladderly-slides/blob/main/docs/ENDORSED-COMMUNITIES.md)<!-- .element: target="_blank" -->, for social help
 4. Algo Prep Chrome Extension - TODO
 5. Interview Prep Flashcard Tool - TODO
 
