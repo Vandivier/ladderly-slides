@@ -30,8 +30,8 @@ License: MIT licensed
 
 ### pt. 2/3, The Job Search
 
-8. <a href="#/soft-skills">Soft Skills</a>
-9. <a href="#/job-search">Job Search</a>
+8. <a href="#soft-skills">Soft Skills</a>
+9. <a href="#job-search">Job Search</a>
 
 ---
 
@@ -423,7 +423,7 @@ Follow-up tips
 ### Interview Prep Stack
 
 1. The Ladderly Curriculum. In Particular:
-    - <a href="#/job-search">The Job Search Section</a><!-- .element: target="_blank" -->
+    - <a href="#job-search">The Job Search Section</a><!-- .element: target="_blank" -->
     - <a href="#external-resources">The External Resources Section</a><!-- .element: target="_blank" -->
 2. [Starboi](https://github.com/Vandivier/starboi), for Behavioral Interview Prep<!-- .element: target="_blank" -->
 3. [Endorsed Communities](https://github.com/Vandivier/ladderly-slides/blob/main/docs/ENDORSED-COMMUNITIES.md)<!-- .element: target="_blank" -->, for social help
