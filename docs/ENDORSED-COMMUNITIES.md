@@ -30,6 +30,7 @@ FreeCodeCamp is a large community. Here are a few key entrypoints into that comm
 
 1. [freecodecamp.org](https://www.freecodecamp.org/)
 2. [FreeCodeCamp YouTube Channel](https://www.youtube.com/c/Freecodecamp)
+3. [FreeCodeCamp Discord](https://www.freecodecamp.org/news/freecodecamp-discord-chat-room-server/)
 
 ## Endorsed Diversity-Oriented Communities
 
