@@ -58,9 +58,10 @@ License: MIT licensed
 6. <a href="#overview-of-the-front-end-path">Overview of the Front-End Path</a>
 7. <a href="#overview-of-the-job-search">Overview of the Job Search</a>
 8. <a href="#overview-of-post-hire-care-and-development">Overview of Post-Hire Care and Development</a>
- <!-- -   persuasive/motivational/benefits of tech + programming -->
 9. <a href="#external-resources">External Resources</a>
-10. <a href="#the-trial-by-fire">The Trial by Fire</a>
+10. <a href="#interview-prep-stack">Interview Prep Stack</a>
+11. <a href="#the-trial-by-fire">The Trial by Fire</a>
+<!-- TODO:   persuasive/motivational/benefits of tech + programming -->
 
 ---
 
@@ -419,6 +420,18 @@ Follow-up tips
 
 ---
 
+### Interview Prep Stack
+
+1. The Ladderly Curriculum. In Particular:
+    - <a href="#/job-search">The Job Search Section</a>
+    - <a href="#external-resources">The External Resources Section</a>
+2. [Starboi](https://github.com/Vandivier/starboi), for Behavioral Interview Prep
+3. [Endorsed Communities](https://github.com/Vandivier/ladderly-slides/blob/main/docs/ENDORSED-COMMUNITIES.md), for social help
+4. Algo Prep Chrome Extension - TODO
+5. Interview Prep Flashcard Tool - TODO
+
+---
+
 ### The Trial by Fire
 
 ## Source: [The Trial by Fire](https://www.youtube.com/watch?v=V7yeF9AaBxM)<!-- .element: target="_blank" -->
@@ -444,6 +457,25 @@ Follow-up tips
 5. [Cristian Florea has free and paid learning resources](https://www.tiktok.com/@johnvandivier/video/7000809985156451590)<!-- .element: target="_blank" -->
     1. Cristian also has substantial experience working with European learners.
 6. [Mimo is a smart phone app that helps you learn to code!](https://www.tiktok.com/@johnvandivier/video/7002777679200095493)<!-- .element: target="_blank" -->
+
+---
+
+### External Resources
+
+Interview Prep
+
+1. [interviewing.io](https://interviewing.io/)
+2. [Interview Cake](https://www.interviewcake.com/)
+3. [AlgoExpert](https://www.algoexpert.io/) and [SystemsExpert](https://www.algoexpert.io/systems/product)
+
+---
+
+### External Resources
+
+Career Advice and Offer Research
+
+1. [levels.fyi](http://levels.fyi/)
+2. [Rooftop Slushie](https://www.rooftopslushie.com/)
 
 ---
 
