@@ -375,8 +375,8 @@ related literature:
 1. [Overview of the Job Search](https://www.tiktok.com/@johnvandivier/video/6997518388771753222)<!-- .element: target="_blank" -->
 2. Have a high-quality GitHub Portfolio and LinkedIn Profile
 3. Get skill certifications from LinkedIn and Indeed
-4. Enlist third-party recruiters like those working at [TEKsystems](https://www.teksystems.com/en)
-5. Optimize your resume. Utilize [Indeed Resume Services](https://www.indeed.com/career-advice/resumes-cover-letters/indeed-resume-review).
+4. Enlist third-party recruiters like those working at [TEKsystems](https://www.teksystems.com/en)<!-- .element: target="_blank" -->
+5. Optimize your resume. Utilize [Indeed Resume Services](https://www.indeed.com/career-advice/resumes-cover-letters/indeed-resume-review).<!-- .element: target="_blank" -->
 
 ---
 
