@@ -636,14 +636,28 @@ https://www.tiktok.com/@johnvandivier/video/7008933997413666053
 
 ## Job Search
 
--   key subtopics: resume + application, social networking, interviews, portfolio development
--   interviews: coding, algorithms, system design, behavioral
+-   <a href="#interview-prep-stack">Interview Prep Stack</a>
+-   [ATS Scanning Tool](https://resume-parser.vercel.app/)
+    -   Make sure resume can find skill keywords and years of experience.
+-   [Job Search Tracker Template](https://docs.google.com/spreadsheets/d/1HdY6WfNoJNSh_jx4-qXvJ-s8gQvtuI-V25UdinyD6jI/)
+-   [Job Search Networking Scripts](https://github.com/Vandivier/ladderly-slides/blob/main/docs/NETWORKING-SCRIPTS.md)
+-   TODO: key subtopics: resume + application, social networking, portfolio development
 
 ---
 
+## Job Search
+
+Open Source Contributions
+
+-   [Discord Driven Open Source Contributions](https://www.tiktok.com/@johnvandivier/video/7052109718730378502)
+-   [Open Sauced Contribution Finder](https://opensauced.pizza/)
+-   [Hot Open Sauced Contribution Finder](https://hot.opensauced.pizza/)
+
+<!-- ---
+
 -   time to learn: good data needed
 -   some reason to think 6 weeks to 6 years: https://blog.devmountain.com/how-long-does-it-take-to-learn-coding/
--   ~10% dropout: https://www.thinkful.com/blog/how-hard-is-computer-science/
+-   ~10% dropout: https://www.thinkful.com/blog/how-hard-is-computer-science/ -->
 
 ---
 
