@@ -451,12 +451,12 @@ Follow-up tips
 
 1. [Learn React Quickly](https://www.tiktok.com/@johnvandivier/video/7005195600216050949)<!-- .element: target="_blank" -->
 2. [Free Website Hosting](https://www.tiktok.com/@johnvandivier/video/7007513003209919749)<!-- .element: target="_blank" -->
-    1. Use GitHub Pages, Vercel, or Railway
+    1. Use GitHub Pages, Vercel, Railway, Render.com, Heroku, or Netlify
+    2. Supabase and ElephantSQL are great for free database support
 3. [GitHub Pages allows free portfolio hosting](https://www.tiktok.com/@johnvandivier/video/6994781519709523206)<!-- .element: target="_blank" -->
-4. [Free Office Hours with Notifications via Twitter](https://www.tiktok.com/@johnvandivier/video/6997580233922727173)<!-- .element: target="_blank" -->
-5. [Cristian Florea has free and paid learning resources](https://www.tiktok.com/@johnvandivier/video/7000809985156451590)<!-- .element: target="_blank" -->
-    1. Cristian also has substantial experience working with European learners.
-6. [Mimo is a smart phone app that helps you learn to code!](https://www.tiktok.com/@johnvandivier/video/7002777679200095493)<!-- .element: target="_blank" -->
+4. [Mimo is a smart phone app that helps you learn to code!](https://www.tiktok.com/@johnvandivier/video/7002777679200095493)<!-- .element: target="_blank" -->
+5. Brainscape flash cards are great for skill assessment and interview prep.
+    1. I specifically recommend getting to 75% or higher on free tier [JavaScript](https://www.brainscape.com/subjects/javascript) and [React](https://www.brainscape.com/subjects/react) flash cards.
 
 ---
 
