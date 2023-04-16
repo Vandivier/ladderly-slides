@@ -6,7 +6,7 @@ View this information as <a href="https://vandivier.github.io/ladderly-slides" t
 
 Proudly built using <a href="https://github.com/hakimel/reveal.js" target="_blank">reveal.js</a>.
 
-License: MIT licensed
+License: MIT licensed Open Source. GitHub <a href="https://github.com/Vandivier/ladderly-slides" target="_blank">repository here</a>.
 
 ---
 
