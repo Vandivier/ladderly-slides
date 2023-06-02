@@ -16,7 +16,7 @@ If you have yet to land your first coding job:
 4. Spend a minimum of 5-10 minutes per day chatting with your selected groups.
 5. After you land your job, do try out more groups later on! 😊 Continuously explore and experiment to prevent knowledge silos, increases growth, and fosters diversity.
 
-Specifically, ensure that you are posting on:
+Specifically, ensure that you are engaging on:
 
 1. GitHub
 2. LinkedIn
@@ -24,6 +24,8 @@ Specifically, ensure that you are posting on:
 4. TikTok
     1. If you have extra cash, use [repurpose.io](https://repurpose.io/?aff=98821) to multi-post on YouTube Shorts and Instagram Reels.
 5. Discord
+
+Engaging must include both creating original content and also replying to others.
 
 As always, experiment and adjust your time allocations to maximize your personal results.
 
