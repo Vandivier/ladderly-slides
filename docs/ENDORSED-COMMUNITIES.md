@@ -1,42 +1,56 @@
 # Endorsed Communities
 
-Endorsed communities are groups of people that Ladderly officially recommends.
+Ladderly suggests these communities to expedite your social networking journey.
 
-For some such communities, this document also provides guidelines on when and how to engage such communities.
+## Suggested Use
 
-## FreeCodeCamp Community
+Social networking can be useful for learning, the job search, and more.
 
-Ladderly and DevCrew are both similar in spirit to FreeCodeCamp.
+As a best practice, leverage your social media presence to build in public. Start with a 2:1 ratio where you code for at least one hour per day and engage on social media for at least thirty minutes each day, with a focus on discussing technical topics.
 
-All of these communities share a mission to help make software and the tech industry accessible to all.
+If you have yet to land your first coding job:
 
-FreeCodeCamp is a large community. Here are a few key entrypoints into that community:
+1. Don't try to engage deeply with all of these communities to the neglect of other important tasks.
+2. Instead, try out various communities and see who you resonate with.
+3. After a week of experimenting, pick the top 1 or 2 communities that you would like to grow with.
+4. Spend a minimum of 5-10 minutes per day chatting with your selected groups.
+5. After you land your job, do try out more groups later on! 😊 Continuously explore and experiment to prevent knowledge silos, increases growth, and fosters diversity.
 
-1. [freecodecamp.org](https://www.freecodecamp.org/)
-2. [FreeCodeCamp YouTube Channel](https://www.youtube.com/c/Freecodecamp)
-3. [FreeCodeCamp Discord](https://www.freecodecamp.org/news/freecodecamp-discord-chat-room-server/)
+Specifically, ensure that you are posting on:
 
-## Endorsed Diversity-Oriented Communities
+1. GitHub
+2. LinkedIn
+3. Twitter
+4. TikTok
+    1. If you have extra cash, use [repurpose.io](https://repurpose.io/?aff=98821) to multi-post on YouTube Shorts and Instagram Reels.
+5. Discord
+
+As always, experiment and adjust your time allocations to maximize your personal results.
+
+## Large Discord Communities
+
+Working with large communities is important for exposure to many opportunities, brand awareness, and rapid technical support.
+
+1. [Reactiflux, 210k+](https://www.reactiflux.com/)
+2. [Codecademy, 94k+](https://discuss.codecademy.com/t/official-codecademy-discord-server/495965)
+3. [Vercel, 705+](https://github.com/vercel/next.js/discussions/14919)
+4. [FreeCodeCamp, 26k+](https://www.freecodecamp.org/news/freecodecamp-discord-chat-room-server/)
+5. [Ben Awad, 9800+](https://www.benawad.com/)
+
+## Small Influencer-Lead Discord Communities
+
+Working with small influencer-lead communities is important for growing deeper connections.
+
+1. [Ladderly, 60+](https://ladderly.io/)
+2. [Learn Build Teach, 5500+](https://twitter.com/jamesqquick)
+3. [CodeWithVincent, 1900+](https://discord.gg/kvBJQsfPdd)
+4. [ellasstudy, 1800+](https://www.tiktok.com/@ellasstudy)
+
+## Diversity-Oriented Communities
+
+Working with diversity-oriented and mission-driven communities is important for growing deeper connections.
 
 1. [FaithTech](https://faithtech.com/)
 2. [Girls Who Code](https://girlswhocode.com/)
-    1. Also consider [Black Girls Code](https://www.blackgirlscode.com/)
 3. [Blacks In Technology](https://www.blacksintechnology.net/)
-    1. Also consider [Black Girls Code](https://www.blackgirlscode.com/)
-4. [Latinas in Tech](https://latinasintech.org/)
-    1. Note: I'm looking for feedback on a few other hispanic D&I communities that I may eventually recommend:
-    2. Techqueria
-    3. TechLatino
-
-## TechTok Influencer-Run Communities and Companies
-
-Each of these brands has an associated Discord, although you may need to do some socially networking to get access.
-
-1. [Ladderly](https://ladderly.io/)
-2. [ellasstudy](https://www.tiktok.com/@ellasstudy)
-3. [CodeWithVincent Discord](https://discord.gg/kvBJQsfPdd)
-4. [James Q Quick](https://twitter.com/jamesqquick)
-5. [Matt Upham Discord](https://links.mattupham.com/)
-6. [TechRally](https://www.techrally.co/)
-7. [donrestarone](https://www.tiktok.com/@donrestarone)
-8. [Devcrew.info](https://Devcrew.info)
+4. [TechLatino](https://techlatino.org/)
