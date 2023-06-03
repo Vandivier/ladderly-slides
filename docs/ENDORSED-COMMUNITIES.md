@@ -56,3 +56,4 @@ Working with diversity-oriented and mission-driven communities is important for 
 2. [Girls Who Code](https://girlswhocode.com/)
 3. [Blacks In Technology](https://www.blacksintechnology.net/)
 4. [TechLatino](https://techlatino.org/)
+5. [Latinas In Tech](https://latinasintech.org/)
