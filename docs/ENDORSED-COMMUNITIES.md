@@ -45,8 +45,9 @@ Working with small influencer-lead communities is important for growing deeper c
 
 1. [Ladderly, 60+](https://ladderly.io/)
 2. [Learn Build Teach, 5500+](https://twitter.com/jamesqquick)
-3. [CodeWithVincent, 1900+](https://discord.gg/kvBJQsfPdd)
-4. [ellasstudy, 1800+](https://www.tiktok.com/@ellasstudy)
+3. [CompSciLib Community, 5000+](https://www.compscilib.com/)
+4. [CodeWithVincent, 1900+](https://discord.gg/kvBJQsfPdd)
+5. [ellasstudy, 1800+](https://www.tiktok.com/@ellasstudy)
 
 ## Diversity-Oriented Communities
 
