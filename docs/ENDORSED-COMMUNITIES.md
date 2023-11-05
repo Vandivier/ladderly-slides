@@ -43,7 +43,7 @@ Working with large communities is important for exposure to many opportunities, 
 
 Working with small influencer-lead communities is important for growing deeper connections.
 
-1. [Ladderly, 60+](https://ladderly.io/)
+1. [Ladderly, 100+](https://ladderly.io/)
 2. [Learn Build Teach, 5500+](https://twitter.com/jamesqquick)
 3. [CompSciLib Community, 5000+](https://www.compscilib.com/)
 4. [CodeWithVincent, 1900+](https://discord.gg/kvBJQsfPdd)
