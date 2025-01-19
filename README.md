@@ -1,3 +1,10 @@
+THIS REPO IS NOW ARCHIVED
+
+SEE UP TO DATE LADDERLY.IO CONTENT AT:
+https://github.com/Vandivier/ladderly-3
+
+---
+
 # Ladderly Slides
 
 This is the open-sourced curriculum for <a href="https://ladderly.io" target="_blank">ladderly.io</a>!
